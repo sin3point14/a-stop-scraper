@@ -645,7 +645,6 @@
       <div class="case-row-header">
         <div class="case-info-main">
           <a href="${shelfPageUrl}" class="case-badge" title="Open individual shelf page">${escapeHtml(item.id)}</a>
-          <span class="case-number-tag">Shelf #${item.number}</span>
           <div class="case-tags-inline">
             ${tagsHtml}
           </div>

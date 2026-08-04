@@ -138,7 +138,6 @@ def generate_shelf_html(case_data):
     <div class="case-row-header">
       <div class="case-info-main">
         <div class="case-badge">{escape(case_id)}</div>
-        <span class="case-number-tag">Shelf #{case_data.get('number', '')}</span>
         <div class="case-tags-inline">
           {tags_html}
         </div>
