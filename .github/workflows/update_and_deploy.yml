@@ -1,13 +1,13 @@
-name: Daily Scrape & Deploy to GitHub Pages
+name: Deploy to GitHub Pages & Daily Scraper
 
 on:
-  schedule:
-    # Run every day at midnight UTC (00:00 UTC)
-    - cron: '0 0 * * *'
-  workflow_dispatch:
   push:
     branches:
       - main
+  schedule:
+    # Run midnight scraper every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,10 +16,12 @@ permissions:
 
 concurrency:
   group: 'pages'
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
+  # Daily Scraper (Runs on schedule or manual trigger)
   scrape-and-update:
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.run_scraper == 'true')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -30,7 +32,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run ASTOP Scraper & Generate Shelf Pages
+      - name: Run ASTOP Scraper & Page Generator
         run: |
           python full_scraper.py
           python generate_pages.py
@@ -43,16 +45,18 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes in dataset or shelf pages"
           else
-            git commit -m "Auto-update cases_data.json and shelf pages via midnight scraper [skip ci]"
+            git commit -m "Auto-update dataset and shelf pages via midnight scraper [skip ci]"
             git push
           fi
 
+  # Deploy Job (Runs on push, workflow_dispatch, or after scraping)
   deploy:
-    needs: scrape-and-update
+    runs-on: ubuntu-latest
+    needs: [scrape-and-update]
+    if: always() && !cancelled()
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
