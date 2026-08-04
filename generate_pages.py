@@ -84,6 +84,20 @@ def generate_shelf_html(case_data):
       flex-direction: column;
       gap: 1.5rem;
     }}
+    @media (max-width: 600px) {{
+      body {{
+        padding: 0.4rem 0;
+      }}
+      .single-case-container {{
+        padding: 0.85rem 0.5rem;
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+      }}
+      .nav-bar-top {{
+        padding: 0 0.5rem;
+      }}
+    }}
     .nav-bar-top {{
       display: flex;
       align-items: center;
