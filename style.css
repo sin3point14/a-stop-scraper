@@ -829,7 +829,7 @@ body {
   height: 360px;
   width: auto;
   max-width: 100%;
-  border-radius: var(--radius-md);
+  border-radius: 0;
   overflow: hidden;
   background: var(--bg-surface);
   border: 1px solid var(--border-color);
@@ -869,6 +869,7 @@ body {
   width: auto;
   max-width: 100%;
   object-fit: contain;
+  border-radius: 0;
 }
 
 .lineup-index-badge {
@@ -881,7 +882,7 @@ body {
   font-size: 0.65rem;
   font-family: 'JetBrains Mono', monospace;
   padding: 2px 6px;
-  border-radius: var(--radius-sm);
+  border-radius: 0;
   pointer-events: none;
 }
 
@@ -895,7 +896,7 @@ body {
   font-size: 0.6rem;
   font-weight: 800;
   padding: 1px 5px;
-  border-radius: var(--radius-sm);
+  border-radius: 0;
 }
 
 /* Lightbox Modal */
@@ -1068,23 +1069,40 @@ body {
   }
   .case-feed {
     padding: 0.4rem 0;
+    margin: 0;
     gap: 0.75rem;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+  }
+  .case-feed::-webkit-scrollbar {
+    width: 3px;
+  }
+  .case-feed::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 0;
   }
   .case-row-card {
-    padding: 0.85rem 0.6rem;
+    padding: 0.85rem 0.25rem;
+    margin: 0;
     border-left: none;
     border-right: none;
     border-radius: 0;
+    width: 100%;
+    box-sizing: border-box;
   }
   .case-lineup-container {
     gap: 0.5rem;
     justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
   }
   .lineup-item {
     max-width: 100%;
     width: 100%;
     height: auto;
     max-height: 70vh;
+    border-radius: 0;
   }
   .case-feed.size-md .lineup-item,
   .case-feed.size-lg .lineup-item,
@@ -1092,11 +1110,13 @@ body {
     width: 100%;
     max-width: 100%;
     height: auto;
+    border-radius: 0;
   }
   .lineup-item img {
     width: 100%;
     height: auto;
     max-height: 70vh;
     object-fit: contain;
+    border-radius: 0;
   }
 }
