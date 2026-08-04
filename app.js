@@ -37,8 +37,6 @@
     caseFeed: document.getElementById('case-feed'),
     
     // Search & Inputs
-    globalSearch: document.getElementById('global-search'),
-    clearSearchBtn: document.getElementById('clear-search-btn'),
     tagSearchInput: document.getElementById('tag-search-input'),
     sortSelect: document.getElementById('sort-select'),
     
@@ -174,21 +172,7 @@
 
   // Setup UI Event Listeners
   function setupEventListeners() {
-    // Global Search
-    el.globalSearch.addEventListener('input', (e) => {
-      state.searchQuery = e.target.value.trim().toLowerCase();
-      el.clearSearchBtn.classList.toggle('hidden', !state.searchQuery);
-      applyFiltersAndSort();
-    });
-
-    el.clearSearchBtn.addEventListener('click', () => {
-      el.globalSearch.value = '';
-      state.searchQuery = '';
-      el.clearSearchBtn.classList.add('hidden');
-      applyFiltersAndSort();
-    });
-
-    // Tag Search
+    // Tag Search inside Sidebar
     el.tagSearchInput.addEventListener('input', (e) => {
       state.tagSearchQuery = e.target.value.trim().toLowerCase();
       renderTagCloud();
@@ -263,11 +247,8 @@
   function resetAllFilters() {
     state.selectedTags.clear();
     state.activeBlock = 'ALL';
-    state.searchQuery = '';
     state.tagSearchQuery = '';
-    el.globalSearch.value = '';
     el.tagSearchInput.value = '';
-    el.clearSearchBtn.classList.add('hidden');
 
     document.querySelectorAll('.block-chip').forEach(c => {
       c.classList.toggle('active', c.dataset.block === 'ALL');
