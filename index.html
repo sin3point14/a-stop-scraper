@@ -48,7 +48,12 @@
       <aside class="sidebar" id="sidebar">
         <div class="sidebar-header">
           <h2><i class="fa-solid fa-tags"></i> Series Tags & Filters</h2>
-          <button id="clear-all-tags-btn" class="btn-text hidden">Clear All</button>
+          <div style="display: flex; gap: 0.5rem; align-items: center;">
+            <button id="copy-filter-url-btn" class="btn btn-outline" style="font-size: 0.7rem; padding: 0.25rem 0.5rem;" title="Copy shareable link with current sidebar filter state">
+              <i class="fa-solid fa-link"></i> Copy Link
+            </button>
+            <button id="clear-all-tags-btn" class="btn-text hidden">Clear All</button>
+          </div>
         </div>
 
         <!-- Quick Stats & Block Selector -->
@@ -182,6 +187,7 @@
         </div>
       </div>
     </div>
+    <div id="toast" class="toast-copy" style="position: fixed; bottom: 2rem; right: 2rem; background: var(--accent-cyan); color: #000; font-weight: 700; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-lg); opacity: 0; transition: opacity 0.3s ease; pointer-events: none; z-index: 1000;"><i class="fa-solid fa-check"></i> Filter Link Copied to Clipboard!</div>
   </div>
 
   <script src="app.js"></script>

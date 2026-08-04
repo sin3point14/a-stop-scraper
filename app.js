@@ -53,6 +53,8 @@
     activeTagsList: document.getElementById('active-tags-list'),
     clearAllTagsBtn: document.getElementById('clear-all-tags-btn'),
     tagCloudContainer: document.getElementById('tag-cloud-container'),
+    copyFilterUrlBtn: document.getElementById('copy-filter-url-btn'),
+    toast: document.getElementById('toast'),
     resetFiltersBtn: document.getElementById('reset-filters-btn'),
     
     // Lightbox Modal
@@ -76,8 +78,110 @@
     el.sidebar.classList.add('collapsed');
     
     loadLocalState();
+    parseURLState();
+    syncControlsUI();
     setupEventListeners();
     await loadData();
+  }
+
+  // Parse State from URL Query Parameters
+  function parseURLState() {
+    try {
+      const params = new URLSearchParams(window.location.search);
+      
+      if (params.has('tags')) {
+        const rawTags = params.get('tags');
+        if (rawTags) {
+          rawTags.split(',').forEach(t => {
+            const decoded = decodeURIComponent(t.trim());
+            if (decoded) state.selectedTags.add(decoded);
+          });
+        }
+      }
+
+      if (params.has('block')) {
+        state.activeBlock = params.get('block').toUpperCase();
+      }
+
+      if (params.has('logic')) {
+        const logic = params.get('logic');
+        if (logic === 'union' || logic === 'intersect') state.multiTagLogic = logic;
+      }
+
+      if (params.has('mode')) {
+        const mode = params.get('mode');
+        if (mode === 'filter' || mode === 'highlight') state.displayMode = mode;
+      }
+
+      if (params.has('sort')) {
+        state.sortOrder = params.get('sort');
+      }
+
+      if (params.has('size')) {
+        state.imgSize = params.get('size');
+      }
+
+      if (params.has('q')) {
+        state.tagSearchQuery = params.get('q').toLowerCase();
+      }
+    } catch (e) {
+      console.warn("Failed to parse URL state:", e);
+    }
+  }
+
+  // Sync Current State to URL Query Parameters
+  function syncURLState() {
+    try {
+      const params = new URLSearchParams();
+
+      if (state.selectedTags.size > 0) {
+        params.set('tags', Array.from(state.selectedTags).join(','));
+      }
+      if (state.activeBlock !== 'ALL') {
+        params.set('block', state.activeBlock);
+      }
+      if (state.multiTagLogic !== 'union') {
+        params.set('logic', state.multiTagLogic);
+      }
+      if (state.displayMode !== 'filter') {
+        params.set('mode', state.displayMode);
+      }
+      if (state.sortOrder !== 'block-asc') {
+        params.set('sort', state.sortOrder);
+      }
+      if (state.imgSize !== 'size-lg') {
+        params.set('size', state.imgSize);
+      }
+      if (state.tagSearchQuery) {
+        params.set('q', state.tagSearchQuery);
+      }
+
+      const queryString = params.toString();
+      const newUrl = queryString ? `${window.location.pathname}?${queryString}${window.location.hash}` : `${window.location.pathname}${window.location.hash}`;
+      
+      window.history.replaceState(null, '', newUrl);
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  // Synchronize UI Controls with State
+  function syncControlsUI() {
+    if (el.sortSelect) el.sortSelect.value = state.sortOrder;
+    if (el.tagSearchInput) el.tagSearchInput.value = state.tagSearchQuery || '';
+
+    // Update segmented controls active state
+    document.querySelectorAll('.segmented-control').forEach(control => {
+      control.querySelectorAll('.segment').forEach(btn => {
+        if (btn.dataset.logic) {
+          btn.classList.toggle('active', btn.dataset.logic === state.multiTagLogic);
+        } else if (btn.dataset.mode) {
+          btn.classList.toggle('active', btn.dataset.mode === state.displayMode);
+        }
+      });
+    });
+
+    applyImageSizeClass();
   }
 
   // Load saved state from LocalStorage
@@ -110,22 +214,12 @@
   // Save current state to LocalStorage
   function saveLocalState() {
     try {
-      if (state.lastViewedCaseId) {
-        localStorage.setItem('astop_last_viewed_case', state.lastViewedCaseId);
-      }
       localStorage.setItem('astop_tag_logic', state.multiTagLogic);
       localStorage.setItem('astop_display_mode', state.displayMode);
       localStorage.setItem('astop_img_size', state.imgSize);
+      syncURLState();
     } catch (e) {
       // ignore
-    }
-  }
-
-  function updateResumeButtons(caseId) {
-    if (caseId) {
-      el.resumeCaseId.textContent = caseId;
-      el.resumeBannerId.textContent = caseId;
-      el.resumeBtn.classList.remove('hidden');
     }
   }
 
@@ -221,6 +315,19 @@
         saveLocalState();
       });
     });
+
+    // Copy Shareable Filter Link Button
+    if (el.copyFilterUrlBtn) {
+      el.copyFilterUrlBtn.addEventListener('click', () => {
+        syncURLState();
+        navigator.clipboard.writeText(window.location.href).then(() => {
+          if (el.toast) {
+            el.toast.classList.add('show');
+            setTimeout(() => el.toast.classList.remove('show'), 2500);
+          }
+        });
+      });
+    }
 
     // Toggle Sidebar
     el.toggleSidebarBtn.addEventListener('click', () => {
@@ -395,6 +502,9 @@
 
     // Sorting
     sortFilteredCases();
+
+    // Sync URL query parameters
+    syncURLState();
 
     // Render Feed
     renderCasesFeed();
