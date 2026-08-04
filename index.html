@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A-STOP Showcase Browser | Speed Browser for Akihabara Figure Cases</title>
+  <meta name="description" content="Instant precomputed browser for A-STOP rental showcase figurine cases. View all shelf lineup images sorted by case number with fast multi-tag series filtering.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" class="app-layout">
+    <!-- Top Header -->
+    <header class="top-bar">
+      <div class="brand">
+        <div class="logo-icon"><i class="fa-solid fa-boxes-stacked"></i></div>
+        <div class="brand-text">
+          <h1>A-STOP <span>SHELF BROWSER</span></h1>
+          <p class="subtitle">Precomputed Instant Showcase Viewer</p>
+        </div>
+      </div>
+      
+      <!-- Global Search & Control bar -->
+      <div class="header-search">
+        <div class="search-input-wrapper">
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+          <input type="text" id="global-search" placeholder="Search case ID (e.g. W-86), figure name, tag..." />
+          <button id="clear-search-btn" class="clear-btn hidden" title="Clear search"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Image Size Switcher -->
+        <div class="img-size-selector" title="Image Display Size">
+          <button class="size-btn" data-size="size-md">M</button>
+          <button class="size-btn active" data-size="size-lg">L</button>
+          <button class="size-btn" data-size="size-xl">XL</button>
+        </div>
+
+        <button id="toggle-sidebar-btn" class="btn btn-primary" title="Toggle Filters Sidebar">
+          <i class="fa-solid fa-filter"></i>
+          <span>Filters</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="main-content">
+      <!-- Left Sidebar: Filters & Series Tags -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+          <h2><i class="fa-solid fa-tags"></i> Series Tags & Filters</h2>
+          <button id="clear-all-tags-btn" class="btn-text hidden">Clear All</button>
+        </div>
+
+        <!-- Quick Stats & Block Selector -->
+        <div class="sidebar-section">
+          <div class="stats-card">
+            <div class="stat-item">
+              <span class="stat-value" id="stat-visible-cases">0</span>
+              <span class="stat-label">Shown Cases</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <span class="stat-value" id="stat-total-cases">0</span>
+              <span class="stat-label">Total Shelves</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat-item">
+              <span class="stat-value" id="stat-total-images">0</span>
+              <span class="stat-label">Lineup Photos</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tag Filter Mode Selector -->
+        <div class="sidebar-section">
+          <label class="section-label">Multi-Tag Logic</label>
+          <div class="segmented-control">
+            <button class="segment active" data-logic="union">
+              <i class="fa-solid fa-layer-group"></i> Union (Match Any)
+            </button>
+            <button class="segment" data-logic="intersect">
+              <i class="fa-solid fa-object-group"></i> Intersect (Match All)
+            </button>
+          </div>
+        </div>
+
+        <!-- Display Mode Toggle -->
+        <div class="sidebar-section">
+          <label class="section-label">Unmatched Cases</label>
+          <div class="segmented-control">
+            <button class="segment active" data-mode="filter">
+              <i class="fa-solid fa-filter"></i> Hide Unmatched
+            </button>
+            <button class="segment" data-mode="highlight">
+              <i class="fa-solid fa-highlighter"></i> Highlight Matches
+            </button>
+          </div>
+        </div>
+
+        <!-- Block Filter Pills -->
+        <div class="sidebar-section">
+          <label class="section-label">Filter by Case Block</label>
+          <div class="block-chips" id="block-chips-container">
+            <!-- Dynamically populated e.g. All, A, B, C, E, F... -->
+          </div>
+        </div>
+
+        <!-- Sort Control -->
+        <div class="sidebar-section">
+          <label class="section-label" for="sort-select">Sort Order</label>
+          <select id="sort-select" class="custom-select">
+            <option value="block-asc" selected>Block Letter & Number (A-01 → Z-99)</option>
+            <option value="number-asc">Shelf Number Only (1 → 99)</option>
+            <option value="number-desc">Shelf Number Only (99 → 1)</option>
+            <option value="date-desc">Recently Updated</option>
+          </select>
+        </div>
+
+        <!-- Tag Search & Tag Cloud -->
+        <div class="sidebar-section flex-grow">
+          <div class="tag-search-wrapper">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="tag-search-input" placeholder="Search series tags (e.g. Code Geass)..." />
+          </div>
+          
+          <div class="selected-tags-container hidden" id="selected-tags-bar">
+            <div class="active-tags-header">Active Tag Filters:</div>
+            <div class="tags-flex" id="active-tags-list"></div>
+          </div>
+
+          <div class="tag-cloud" id="tag-cloud-container">
+            <!-- Dynamic tags -->
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Case Feed -->
+      <main class="case-feed" id="case-feed">
+        <!-- Loading State -->
+        <div id="loading-spinner" class="loading-container">
+          <div class="spinner"></div>
+          <p>Loading ASTOP showcase data...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div id="empty-state" class="empty-container hidden">
+          <i class="fa-solid fa-ghost empty-icon"></i>
+          <h3>No matching shelves found</h3>
+          <p>Try clearing your active tags or searching for a different keyword.</p>
+          <button id="reset-filters-btn" class="btn btn-primary">Reset All Filters</button>
+        </div>
+
+        <!-- Cases Container -->
+        <div id="cases-list" class="cases-rows-wrapper"></div>
+      </main>
+    </div>
+
+    <!-- Image Lightbox Modal -->
+    <div id="lightbox-modal" class="lightbox-modal hidden">
+      <div class="lightbox-backdrop"></div>
+      <div class="lightbox-content">
+        <button id="lightbox-close" class="lightbox-btn lightbox-close-btn" title="Close"><i class="fa-solid fa-xmark"></i></button>
+        <button id="lightbox-prev" class="lightbox-btn lightbox-nav-btn prev-btn" title="Previous Image"><i class="fa-solid fa-chevron-left"></i></button>
+        <button id="lightbox-next" class="lightbox-btn lightbox-nav-btn next-btn" title="Next Image"><i class="fa-solid fa-chevron-right"></i></button>
+
+        <div class="lightbox-body">
+          <div class="lightbox-image-container">
+            <img id="lightbox-img" src="" alt="Showcase Lineup Detail" />
+          </div>
+          <div class="lightbox-info">
+            <div class="lightbox-header">
+              <span class="lightbox-case-id" id="lightbox-case-id">W-86</span>
+              <span class="lightbox-counter" id="lightbox-counter">1 of 6</span>
+            </div>
+            <h3 id="lightbox-title">Case Title</h3>
+            <p id="lightbox-caption" class="lightbox-caption"></p>
+            <div id="lightbox-tags" class="lightbox-tags"></div>
+            <a id="lightbox-astop-link" href="#" target="_blank" rel="noopener" class="btn btn-outline btn-sm">
+              <i class="fa-solid fa-arrow-up-right-from-square"></i> Open on ASTOP
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
