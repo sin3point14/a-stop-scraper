@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>ASTOP Shelf N-23 — Prize Figure</title>
+  <meta name="title" content="ASTOP Shelf N-23 — Prize Figure">
+  <meta name="description" content="Browse all 3 photos from A-STOP rental showcase shelf N-23. Series: Prize Figure.">
+  <link rel="canonical" href="https://sin3point14.github.io/a-stop-scraper/cases/N23.html">
+
+  <!-- Open Graph / Discord Link Preview Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sin3point14.github.io/a-stop-scraper/cases/N23.html">
+  <meta property="og:title" content="A-STOP Shelf N-23 (3 Photos)">
+  <meta property="og:description" content="Series Tags: Prize Figure">
+  <meta property="og:image" content="https://astop-webapp.sakura.ne.jp/image/css/2/N23/20260110-14261406961e2f608119.jpg">
+  <meta property="og:site_name" content="A-STOP Showcase Browser">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://sin3point14.github.io/a-stop-scraper/cases/N23.html">
+  <meta name="twitter:title" content="A-STOP Shelf N-23 (3 Photos)">
+  <meta name="twitter:description" content="Series Tags: Prize Figure">
+  <meta name="twitter:image" content="https://astop-webapp.sakura.ne.jp/image/css/2/N23/20260110-14261406961e2f608119.jpg">
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="../style.css">
+
+  <style>
+    body {
+      padding: 1.5rem;
+      max-width: 1400px;
+      margin: 0 auto;
+      background: var(--bg-primary);
+    }
+    .single-case-container {
+      background: var(--bg-glass-card);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+    .nav-bar-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.5rem;
+    }
+    .toast-copy {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--accent-cyan);
+      color: #000;
+      font-weight: 700;
+      padding: 0.6rem 1.2rem;
+      border-radius: var(--radius-md);
+      box-shadow: var(--shadow-lg);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+      z-index: 1000;
+    }
+    .toast-copy.show {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="nav-bar-top">
+    <a href="../index.html#case-N-23" class="btn btn-outline">
+      <i class="fa-solid fa-arrow-left"></i> Browse All Shelves
+    </a>
+    <button id="share-btn" class="btn btn-primary">
+      <i class="fa-solid fa-share-nodes"></i> Copy Share Link
+    </button>
+  </div>
+
+  <main class="single-case-container">
+    <div class="case-row-header">
+      <div class="case-info-main">
+        <div class="case-badge">N-23</div>
+        <span class="case-number-tag">Shelf #23</span>
+        <div class="case-tags-inline">
+          <span class="case-tag-badge">Prize Figure</span>
+        </div>
+      </div>
+
+      <div class="case-meta-right">
+        <span class="case-date"><i class="fa-regular fa-clock"></i> 2026-01-11</span>
+        <a href="https://www.astop.co.jp/zone/en/caselist/N23.html" target="_blank" rel="noopener" class="astop-link-btn">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i> ASTOP Page
+        </a>
+      </div>
+    </div>
+
+    <div class="case-lineup-container">
+      
+        <div class="lineup-item">
+          <img src="https://astop-webapp.sakura.ne.jp/image/css/2/N23/20260110-14261406961e2f608119.jpg" alt="Shelf N-23 photo 1" loading="lazy" />
+          <span class="lineup-index-badge">1/3</span>
+        </div>
+        
+        <div class="lineup-item">
+          <img src="https://astop-webapp.sakura.ne.jp/image/css/2/N23/20260110-14261416961e2f62cd82.jpg" alt="Shelf N-23 photo 2" loading="lazy" />
+          <span class="lineup-index-badge">2/3</span>
+        </div>
+        
+        <div class="lineup-item">
+          <img src="https://astop-webapp.sakura.ne.jp/image/css/2/N23/20260110-14261426961e2f6a91f4.jpg" alt="Shelf N-23 photo 3" loading="lazy" />
+          <span class="lineup-index-badge">3/3</span>
+        </div>
+        
+    </div>
+  </main>
+
+  <div id="toast" class="toast-copy"><i class="fa-solid fa-check"></i> Direct Share Link Copied!</div>
+
+  <script>
+    document.getElementById('share-btn').addEventListener('click', () => {
+      navigator.clipboard.writeText(window.location.href).then(() => {
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 2500);
+      });
+    });
+  </script>
+</body>
+</html>

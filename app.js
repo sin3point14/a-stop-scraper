@@ -504,10 +504,13 @@
       `).join('');
     }
 
+    const caseCode = item.code || item.id.replace('-', '');
+    const shelfPageUrl = `cases/${caseCode}.html`;
+
     card.innerHTML = `
       <div class="case-row-header">
         <div class="case-info-main">
-          <div class="case-badge">${escapeHtml(item.id)}</div>
+          <a href="${shelfPageUrl}" class="case-badge" title="Open individual shelf page">${escapeHtml(item.id)}</a>
           <span class="case-number-tag">Shelf #${item.number}</span>
           <div class="case-tags-inline">
             ${tagsHtml}
@@ -516,6 +519,9 @@
 
         <div class="case-meta-right">
           ${item.date ? `<span class="case-date"><i class="fa-regular fa-clock"></i> ${escapeHtml(item.date)}</span>` : ''}
+          <a href="${shelfPageUrl}" class="astop-link-btn share-page-btn" title="Open or Share Discord preview page">
+            <i class="fa-solid fa-share-nodes"></i> Share Shelf
+          </a>
           <a href="${item.url}" target="_blank" rel="noopener" class="astop-link-btn" title="Open detail page on ASTOP">
             <i class="fa-solid fa-arrow-up-right-from-square"></i> ASTOP Page
           </a>

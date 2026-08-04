@@ -30,19 +30,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run ASTOP Scraper
+      - name: Run ASTOP Scraper & Generate Shelf Pages
         run: |
           python full_scraper.py
+          python generate_pages.py
 
-      - name: Commit updated cases_data.json if changed
+      - name: Commit updated dataset and shelf pages if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add cases_data.json
+          git add cases_data.json cases/
           if git diff --staged --quiet; then
-            echo "No changes in cases_data.json"
+            echo "No changes in dataset or shelf pages"
           else
-            git commit -m "Auto-update cases_data.json via midnight scraper [skip ci]"
+            git commit -m "Auto-update cases_data.json and shelf pages via midnight scraper [skip ci]"
             git push
           fi
 
