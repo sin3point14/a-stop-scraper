@@ -187,14 +187,29 @@
   // Load saved state from LocalStorage
   function loadLocalState() {
     try {
+      const savedTags = localStorage.getItem('astop_selected_tags');
+      if (savedTags) {
+        const parsed = JSON.parse(savedTags);
+        if (Array.isArray(parsed)) parsed.forEach(t => state.selectedTags.add(t));
+      }
+
+      const savedBlock = localStorage.getItem('astop_active_block');
+      if (savedBlock) state.activeBlock = savedBlock;
+
       const savedLogic = localStorage.getItem('astop_tag_logic');
       if (savedLogic) state.multiTagLogic = savedLogic;
 
       const savedMode = localStorage.getItem('astop_display_mode');
       if (savedMode) state.displayMode = savedMode;
 
+      const savedSort = localStorage.getItem('astop_sort_order');
+      if (savedSort) state.sortOrder = savedSort;
+
       const savedSize = localStorage.getItem('astop_img_size');
       if (savedSize) state.imgSize = savedSize;
+
+      const savedQuery = localStorage.getItem('astop_tag_query');
+      if (savedQuery) state.tagSearchQuery = savedQuery;
 
       applyImageSizeClass();
     } catch (e) {
@@ -214,13 +229,44 @@
   // Save current state to LocalStorage
   function saveLocalState() {
     try {
+      localStorage.setItem('astop_selected_tags', JSON.stringify(Array.from(state.selectedTags)));
+      localStorage.setItem('astop_active_block', state.activeBlock);
       localStorage.setItem('astop_tag_logic', state.multiTagLogic);
       localStorage.setItem('astop_display_mode', state.displayMode);
+      localStorage.setItem('astop_sort_order', state.sortOrder);
       localStorage.setItem('astop_img_size', state.imgSize);
+      localStorage.setItem('astop_tag_query', state.tagSearchQuery || '');
       syncURLState();
     } catch (e) {
       // ignore
     }
+  }
+
+  // Scroll Position Persistence
+  let scrollDebounceTimer = null;
+  function setupScrollPersistence() {
+    el.caseFeed.addEventListener('scroll', () => {
+      clearTimeout(scrollDebounceTimer);
+      scrollDebounceTimer = setTimeout(() => {
+        try {
+          localStorage.setItem('astop_scroll_top', el.caseFeed.scrollTop);
+        } catch (e) {}
+      }, 100);
+    });
+  }
+
+  function restoreScrollPosition() {
+    try {
+      const savedScroll = localStorage.getItem('astop_scroll_top');
+      if (savedScroll !== null) {
+        const top = parseInt(savedScroll, 10);
+        if (!isNaN(top) && top > 0) {
+          setTimeout(() => {
+            el.caseFeed.scrollTop = top;
+          }, 150);
+        }
+      }
+    } catch (e) {}
   }
 
   // Load JSON Data
@@ -246,6 +292,8 @@
       
       // Initial Filter & Render
       applyFiltersAndSort();
+      setupScrollPersistence();
+      restoreScrollPosition();
 
     } catch (err) {
       console.error("Failed to load dataset:", err);
