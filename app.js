@@ -368,12 +368,7 @@
     if (el.copyFilterUrlBtn) {
       el.copyFilterUrlBtn.addEventListener('click', () => {
         syncURLState();
-        navigator.clipboard.writeText(window.location.href).then(() => {
-          if (el.toast) {
-            el.toast.classList.add('show');
-            setTimeout(() => el.toast.classList.remove('show'), 2500);
-          }
-        });
+        copyTextToClipboard(window.location.href);
       });
     }
 
@@ -672,6 +667,30 @@
       </div>
     `;
 
+    // Add Share Shelf Click Handler (Web Share API + Clipboard Fallback)
+    const shareBtn = card.querySelector('.share-page-btn');
+    if (shareBtn) {
+      shareBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const fullUrl = new URL(shelfPageUrl, window.location.href).href;
+        const shareTitle = `ASTOP Shelf ${item.id}`;
+        const shareText = `Check out ASTOP figurine shelf ${item.id} (${(item.tags || []).join(', ')})`;
+
+        if (navigator.share) {
+          navigator.share({
+            title: shareTitle,
+            text: shareText,
+            url: fullUrl
+          }).catch(() => {
+            // Fallback if user cancels native share sheet
+            copyTextToClipboard(fullUrl);
+          });
+        } else {
+          copyTextToClipboard(fullUrl);
+        }
+      });
+    }
+
     // Add Tag Click Handlers
     card.querySelectorAll('.case-tag-badge[data-tag]').forEach(badge => {
       badge.addEventListener('click', (e) => {
@@ -786,6 +805,39 @@
     el.lightboxTags.innerHTML = (caseItem.tags || []).map(t => `
       <span class="tag-pill active">${escapeHtml(t)}</span>
     `).join('');
+  }
+
+  // Clipboard & Web Share Utility
+  function copyTextToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(showToastNotification).catch(() => fallbackExecCopy(text));
+    } else {
+      fallbackExecCopy(text);
+    }
+  }
+
+  function fallbackExecCopy(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.opacity = '0';
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    try {
+      document.execCommand('copy');
+      showToastNotification();
+    } catch (err) {
+      console.error('Fallback copy error:', err);
+    }
+    document.body.removeChild(textArea);
+  }
+
+  function showToastNotification() {
+    if (el.toast) {
+      el.toast.classList.add('show');
+      setTimeout(() => el.toast.classList.remove('show'), 2500);
+    }
   }
 
   // Utility

@@ -120,12 +120,40 @@
   <div id="toast" class="toast-copy"><i class="fa-solid fa-check"></i> Direct Share Link Copied!</div>
 
   <script>
+    function copyText(text) {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(showToast).catch(() => fallbackCopy(text));
+      } else {
+        fallbackCopy(text);
+      }
+    }
+    function fallbackCopy(text) {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      try { document.execCommand('copy'); showToast(); } catch (e) {}
+      document.body.removeChild(ta);
+    }
+    function showToast() {
+      const toast = document.getElementById('toast');
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2500);
+    }
     document.getElementById('share-btn').addEventListener('click', () => {
-      navigator.clipboard.writeText(window.location.href).then(() => {
-        const toast = document.getElementById('toast');
-        toast.classList.add('show');
-        setTimeout(() => toast.classList.remove('show'), 2500);
-      });
+      const shareUrl = window.location.href;
+      if (navigator.share) {
+        navigator.share({
+          title: 'ASTOP Shelf P-43',
+          text: 'Check out ASTOP figurine shelf P-43 (Dragon Ball, ONE PIECE)',
+          url: shareUrl
+        }).catch(() => copyText(shareUrl));
+      } else {
+        copyText(shareUrl);
+      }
     });
   </script>
 </body>
