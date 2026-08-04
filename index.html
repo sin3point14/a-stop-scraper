@@ -20,11 +20,17 @@
   <div id="app" class="app-layout">
     <!-- Top Header -->
     <header class="top-bar">
-      <div class="brand">
-        <div class="logo-icon"><i class="fa-solid fa-boxes-stacked"></i></div>
-        <div class="brand-text">
-          <h1>A-STOP <span>SHELF BROWSER</span></h1>
-          <p class="subtitle">Precomputed Instant Showcase Viewer</p>
+      <div class="header-left" style="display: flex; align-items: center; gap: 0.75rem;">
+        <button id="toggle-sidebar-btn" class="btn btn-icon" title="Toggle Filters Menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+
+        <div class="brand">
+          <div class="logo-icon"><i class="fa-solid fa-boxes-stacked"></i></div>
+          <div class="brand-text">
+            <h1>A-STOP <span>SHELF BROWSER</span></h1>
+            <p class="subtitle">Precomputed Instant Showcase Viewer</p>
+          </div>
         </div>
       </div>
 
@@ -35,11 +41,6 @@
           <button class="size-btn active" data-size="size-lg">L</button>
           <button class="size-btn" data-size="size-xl">XL</button>
         </div>
-
-        <button id="toggle-sidebar-btn" class="btn btn-primary" title="Toggle Filters Sidebar">
-          <i class="fa-solid fa-filter"></i>
-          <span>Filters</span>
-        </button>
       </div>
     </header>
 
