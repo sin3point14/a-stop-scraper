@@ -3532,7 +3532,7 @@
       "code": "B36",
       "number": 36,
       "letter": "B",
-      "date": "2026-07-20",
+      "date": "2026-08-09",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -3549,12 +3549,12 @@
         "Is the order a rabbit?",
         "Uma Musume"
       ],
-      "title": "Is the Order a Rabbit? & Uma Musume",
-      "caption": "Chino Teatime Special Figure Cocoa Luminasta Furimukyun Rubber Strap Extella Aston Machan, Satono Diamond \"Chonmageya\"",
+      "title": "Uma Musume & GochiUsa",
+      "caption": "XTERRA Aston Machan, Satono Diamond Relax Time Oguri Cap, Tamamo Cross Cocoa Luminasta Furimukyun Rubber Strap \"Chonmageya\"",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260719-16175606a5c7a2491b8f.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260719-16175716a5c7a25312df.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260719-16175726a5c7a25ac721.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260808-17475906a76ed3f5a7a6.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260808-17475916a76ed3fa5750.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B36/20260808-17480026a76ed405fd5b.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/B36.html"
     },
@@ -16686,7 +16686,7 @@
       "code": "H95",
       "number": 95,
       "letter": "H",
-      "date": "2026-04-10",
+      "date": "2026-08-09",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -16701,13 +16701,13 @@
       ],
       "tags": [
         "Hatsune Miku",
-        "Monster No. 8"
+        "The dress-up doll falls in love"
       ],
       "title": "anime figures",
-      "caption": "Good Smile Company, Nendoroid, Ashihara Mina, Shinomiya Kikoru, The Little Mermaid, Ariel, Denji, Rem",
+      "caption": "Good Smile Company, Nendoroid, Mina Ashiro, Hatsune Miku, Marin Kitagawa, The Little Mermaid, Ariel, Denji, Rem",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H95/20260409-215756069d7a254756c5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H95/20260409-215756169d7a254b406a.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/H95/20260808-13050406a76aaf04ad4d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/H95/20260808-13050516a76aaf117904.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/H95.html"
     },
@@ -24551,7 +24551,7 @@
       "code": "P94",
       "number": 94,
       "letter": "P",
-      "date": "2026-08-06",
+      "date": "2026-08-09",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -24570,9 +24570,9 @@
       "title": "That Time I Got Reincarnated as a Slime",
       "caption": "Rimuru Tempest, Ranga, Diablo",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260805-21334306a732da71f6d1.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260805-21334316a732da7454a9.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260805-21334326a732da7b2bf2.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260808-12185306a76a01d6bcbc.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260808-12185416a76a01e80d00.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260808-12185526a76a01f6d245.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P94.html"
     },
@@ -35065,7 +35065,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-08-08 01:14:48",
+  "scraped_at": "2026-08-09 01:19:34",
   "total_cases": 1115,
   "total_images": 3184
 }
