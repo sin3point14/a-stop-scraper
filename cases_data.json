@@ -5296,7 +5296,7 @@
       "code": "C02",
       "number": 2,
       "letter": "C",
-      "date": "2026-08-12",
+      "date": "2026-08-14",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -5317,9 +5317,9 @@
       "title": "Shonen Jump Figure Atre Card",
       "caption": "Luffy, Shinobu Kocho, Atre Card",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260811-20243206a7b0670d0406.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260811-20243316a7b06711886c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260811-20243326a7b067194d45.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260813-19024906a7d9649ccddb.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260813-19025016a7d964acd74a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260813-19025126a7d964b5531d.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C02.html"
     },
@@ -6443,7 +6443,7 @@
       "code": "C39",
       "number": 39,
       "letter": "C",
-      "date": "2026-05-03",
+      "date": "2026-08-14",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -6457,16 +6457,16 @@
         "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
       ],
       "tags": [
+        "Accel World",
         "Arknights",
-        "Gun Gale Online",
         "Sword Art Online"
       ],
       "title": "SAO & Arknights",
-      "caption": "figma Ren, Kirito GGO Desktop Army BiCute Dark Leafa, Noodle Stopper Rin, U-Official \"Chonmageya\"",
+      "caption": "figma Ren, Kirito GGO Desktop Army Noodle Stopper Kuroyukihime, Rin, U-Official \"Chonmageya\"",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260502-234640069f60e5064b25.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260502-234641169f60e51f3f33.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260502-234642269f60e52ae7fc.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260813-23080806a7dcfc83face.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260813-23080916a7dcfc96d8f7.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C39/20260813-23080926a7dcfc9eccfb.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C39.html"
     },
@@ -13737,7 +13737,7 @@
       "code": "G08",
       "number": 8,
       "letter": "G",
-      "date": "2026-08-12",
+      "date": "2026-08-14",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -13758,9 +13758,9 @@
       "title": "That Time I Got Reincarnated as a Slime, Cardcaptor Sakura",
       "caption": "Kinomoto Sakura, Rimuru, Diablo, Luffy",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260811-20225806a7b06127cbf1.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260811-20225816a7b06129a039.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260811-20225926a7b061322526.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260813-19032306a7d966bada85.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260813-19032316a7d966bd2076.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260813-19032426a7d966c5997f.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/G08.html"
     },
@@ -34605,7 +34605,6 @@
     "Gremlins",
     "Grendizer",
     "Gridman Universe",
-    "Gun Gale Online",
     "Gundam",
     "Gundam Artifact",
     "Gundam Assemble",
@@ -35066,7 +35065,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-08-13 01:28:51",
+  "scraped_at": "2026-08-14 01:28:41",
   "total_cases": 1115,
   "total_images": 3183
 }
