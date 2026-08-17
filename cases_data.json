@@ -994,7 +994,7 @@
       "code": "A34",
       "number": 34,
       "letter": "A",
-      "date": "2026-03-13",
+      "date": "2026-08-17",
       "categories": [
         "MINIATURE CAR",
         "CHARACTER GOODS",
@@ -1014,9 +1014,9 @@
       "title": "Tomica",
       "caption": "Initial D, Nissan Motors Original, Disney Resort Original, Sanrio, Snoopy",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260312-172324069b277fccfd71.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260312-172328169b27800afd61.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260312-172330269b27802213af.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260816-16335306a8167e1acdb3.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260816-16335416a8167e2e44fc.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A34/20260816-16335526a8167e370787.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/A34.html"
     },
@@ -2520,7 +2520,7 @@
       "code": "B02",
       "number": 2,
       "letter": "B",
-      "date": "2026-03-13",
+      "date": "2026-08-17",
       "categories": [
         "MINIATURE CAR",
         "CHARACTER GOODS",
@@ -2539,9 +2539,9 @@
       "title": "Tomica",
       "caption": "Limited Tomica Premium, business-exclusive bus, J League-exclusive bus",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260312-173403069b27a7bc94aa.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260312-173404169b27a7cc79f5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260312-173405269b27a7dc2db6.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260816-16350906a81682d9a782.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260816-16351016a81682e6ee2a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B02/20260816-16351126a81682f22e55.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/B02.html"
     },
@@ -28297,7 +28297,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "BLEACH",
@@ -28329,7 +28330,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer"
@@ -28359,7 +28361,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Close",
@@ -28389,7 +28392,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Puella Magi Madoka Magica",
@@ -28421,7 +28425,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Junji Ito \"Collection\"",
@@ -28453,7 +28458,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Fate Series"
@@ -28483,7 +28489,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Funeral of Freiren",
@@ -28515,7 +28522,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "AXE",
@@ -28536,9 +28544,9 @@
       "code": "W36",
       "number": 36,
       "letter": "W",
-      "date": "2026-03-23",
+      "date": "2026-08-17",
       "categories": [
-        "FIGURES",
+        "フィギュア",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -28547,19 +28555,20 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
-        "Hellraiser",
-        "ring",
-        "VAMPIRELLA"
+        "VAMPIRELLA",
+        "ヘルレイザー",
+        "リンク"
       ],
       "title": "'HORROR Bishoujo'",
       "caption": "Horror beauty Yamashita Shunya, horror movies Pinhead, Ring, Sadako, Texas Chainsaw Massacre, Leatherhead, IT, Pennywise, Vampirella",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260322-211409069bfdd11d3cdc.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260322-211410169bfdd12045f3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260322-211410269bfdd1282cd7.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260817-09571306a825c69e7042.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260817-09571416a825c6a86be9.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W36/20260817-09571526a825c6be1704.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/W36.html"
     },
@@ -28579,7 +28588,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "A Pharmacist's Monologue",
@@ -28611,7 +28621,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -28642,7 +28653,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Attack on Titan"
@@ -28672,7 +28684,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Mew Plush Toy",
@@ -28702,7 +28715,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Disney"
@@ -28732,7 +28746,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Fate",
@@ -28763,7 +28778,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Inuyasha",
@@ -28796,7 +28812,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Firefighting Team",
@@ -28828,7 +28845,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Fate"
@@ -28858,7 +28876,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "do it"
@@ -28888,7 +28907,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Evangelion: New Theatrical Edition",
@@ -28919,7 +28939,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Fate"
@@ -28948,7 +28969,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "do it"
@@ -28978,7 +29000,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "FAT",
@@ -29009,7 +29032,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "JoJo's Bizarre Adventure",
@@ -29041,7 +29065,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ojamajo Doremi",
@@ -29072,7 +29097,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Pretty Guardian Sailor Moon"
@@ -29102,7 +29128,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Cowboy Bebop",
@@ -29132,7 +29159,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Attack on Titan",
@@ -29162,7 +29190,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Bakemonogatari",
@@ -29194,7 +29223,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Accel World",
@@ -29226,7 +29256,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer",
@@ -29258,7 +29289,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Night Song",
@@ -29290,7 +29322,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hot Wheels",
@@ -29321,7 +29354,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "IS (Infinite Stratos)",
@@ -29352,7 +29386,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "AXE",
@@ -29384,7 +29419,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Love Live!",
@@ -29415,7 +29451,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dark Souls",
@@ -29446,7 +29483,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "BLEACH",
@@ -29478,7 +29516,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "dead pool",
@@ -29510,7 +29549,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Marvel",
@@ -29542,7 +29582,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Medaka Box",
@@ -29574,7 +29615,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Star Wars"
@@ -29604,7 +29646,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Firefighting Team",
@@ -29639,7 +29682,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Berserk",
@@ -29671,7 +29715,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Godzilla",
@@ -29706,7 +29751,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "That Time I Got Reincarnated as a Slime"
@@ -29737,7 +29783,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "That Time I Got Reincarnated as a Slime"
@@ -29770,7 +29817,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Inuyasha",
@@ -29802,7 +29850,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ghost in the Shell",
@@ -29837,7 +29886,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Evangelion: New Theatrical Edition"
@@ -29867,7 +29917,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Devilman",
@@ -29900,7 +29951,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "DRAGONBALL",
@@ -29932,7 +29984,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Harry Potter",
@@ -29952,7 +30005,7 @@
       "code": "W91",
       "number": 91,
       "letter": "W",
-      "date": "2026-08-06",
+      "date": "2026-08-17",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -29963,20 +30016,22 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Love Live!",
-        "School Idolmaster"
+        "The Idolmaster"
       ],
-      "title": "Love Live! & Gakuen Mas",
-      "caption": "Hasuno Sora Kyurumaru Plush Toy Joyful Marching Acrylic Diorama \"Chonmageya\"",
+      "title": "Love Live & Idolmaster",
+      "caption": "Hasuno Sora Kyurumaru Plushie School Mas Joyful Marching Acrylic Diorama \"Chonmageya\"",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260805-18304706a7302c73569d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260805-18304716a7302c7c48b2.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260805-18304826a7302c87aca5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260805-18304936a7302c939b5b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260805-18304946a7302c9e5b57.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560506a815f053e0af.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560516a815f0560635.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560626a815f067d045.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560736a815f07d2aac.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560846a815f085afda.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/W91/20260816-15560856a815f08da1a0.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/W91.html"
     },
@@ -29996,7 +30051,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Kamen Rider"
@@ -30027,7 +30083,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Re:Zero − Starting Life in Another World"
@@ -30060,7 +30117,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Digimon Adventure",
@@ -30095,7 +30153,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Banana Fish",
@@ -30130,7 +30189,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dandadan",
@@ -30165,7 +30225,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer",
@@ -30199,7 +30260,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Jujutsu Kaisen"
@@ -30229,7 +30291,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Space Knight Tekkaman Blade"
@@ -30258,7 +30321,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "A Certain Scientific Railgun",
@@ -30290,7 +30354,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hololive"
@@ -30320,7 +30385,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball"
@@ -30350,7 +30416,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -30380,7 +30447,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Cardcaptor Sakura",
@@ -30412,7 +30480,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hololive",
@@ -30443,7 +30512,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dress-up doll falls in love",
@@ -30474,7 +30544,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -30504,7 +30575,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -30534,7 +30606,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hololive",
@@ -30565,7 +30638,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer"
@@ -30595,7 +30669,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Jujutsu Kaisen"
@@ -30625,7 +30700,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "FGO",
@@ -30657,7 +30733,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ULTRA-ACT",
@@ -30687,7 +30764,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Steins;Gate"
@@ -30718,7 +30796,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "My Favorite Child",
@@ -30750,7 +30829,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Mobile Suit Gundam"
@@ -30779,7 +30859,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dark Souls"
@@ -30809,7 +30890,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Idol goods"
@@ -30838,7 +30920,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Monster Hunter"
@@ -30868,7 +30951,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -30900,7 +30984,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -30930,7 +31015,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "The Doll Falls in Love"
@@ -30960,7 +31046,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Bocchi the Rock!",
@@ -30991,7 +31078,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "City Hunter",
@@ -31023,7 +31111,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Bocchi the Rock!",
@@ -31055,7 +31144,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "The Doll Falls in Love"
@@ -31085,7 +31175,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Urusei Yatsura"
@@ -31114,7 +31205,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Oshi no Ko"
@@ -31144,7 +31236,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Is the order a rabbit?",
@@ -31175,7 +31268,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "bike figure"
@@ -31204,7 +31298,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dandadan",
@@ -31235,7 +31330,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Blue Archive",
@@ -31266,7 +31362,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Goddess of Victory: NIKKE"
@@ -31296,7 +31393,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Blue Archive",
@@ -31317,7 +31415,7 @@
       "code": "X38",
       "number": 38,
       "letter": "X",
-      "date": "2026-08-05",
+      "date": "2026-08-17",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -31328,7 +31426,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Pork liver is cooked"
@@ -31336,9 +31435,9 @@
       "title": "Pork liver and others",
       "caption": "Jess Noodle Stopper, Relax time and other prize latest works \"Chomage Shop\"",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260804-23580406a71fdfc6cf05.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260804-23580416a71fdfc994cd.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260804-23580526a71fdfd2275e.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260816-17311706a817555c557d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260816-17311716a817555f1e03.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X38/20260816-17311826a8175567bf65.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/X38.html"
     },
@@ -31358,7 +31457,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Berserk",
@@ -31392,7 +31492,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Berserk",
@@ -31423,7 +31524,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Berserk",
@@ -31453,7 +31555,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Chainsaw Man",
@@ -31484,7 +31587,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Date A Live",
@@ -31515,7 +31619,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer",
@@ -31546,7 +31651,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Spy Family",
@@ -31577,7 +31683,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -31607,7 +31714,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ChocoKoko",
@@ -31638,7 +31746,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -31668,7 +31777,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Pokémon"
@@ -31698,7 +31808,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Spy Family",
@@ -31729,7 +31840,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Kantai Collection"
@@ -31758,7 +31870,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "dinosaur",
@@ -31788,7 +31901,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gintama",
@@ -31819,7 +31933,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -31849,7 +31964,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Love Live! Nijigasaki High School"
@@ -31878,7 +31994,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gacha",
@@ -31908,7 +32025,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gacha",
@@ -31939,7 +32057,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gacha",
@@ -31970,7 +32089,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "animal",
@@ -32000,7 +32120,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -32030,7 +32151,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -32062,7 +32184,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Haikyu!!",
@@ -32093,7 +32216,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gintama",
@@ -32124,7 +32248,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ken Kaneki"
@@ -32153,7 +32278,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONEPIECE"
@@ -32183,7 +32309,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Arsenal Base",
@@ -32215,7 +32342,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Vagabond"
@@ -32245,7 +32373,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -32275,7 +32404,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ranma 1/2"
@@ -32305,7 +32435,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Key Chain",
@@ -32337,7 +32468,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Detective Conan"
@@ -32366,7 +32498,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "THE FIRE RING"
@@ -32395,7 +32528,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dark Souls"
@@ -32424,7 +32558,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "AXE",
@@ -32455,7 +32590,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "BOOKS"
@@ -32485,7 +32621,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Disney",
@@ -32517,7 +32654,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "animal",
@@ -32549,7 +32687,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "HUNTER × HUNTER",
@@ -32581,7 +32720,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Queen's Blade"
@@ -32610,7 +32750,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Natsume's Book of Friends"
@@ -32640,7 +32781,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Astro Boy",
@@ -32671,7 +32813,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dandadan",
@@ -32702,7 +32845,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Disney"
@@ -32732,7 +32876,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Monogatari Series"
@@ -32762,7 +32907,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "fish",
@@ -32792,7 +32938,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -32822,7 +32969,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Croisée in a Foreign Labyrinth",
@@ -32854,7 +33002,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ghibli",
@@ -32885,7 +33034,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "animal",
@@ -32915,7 +33065,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "One Piece Eustass Kid"
@@ -32944,7 +33095,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE"
@@ -32974,7 +33126,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Canon",
@@ -33006,7 +33159,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Kaguya-sama: Love is War",
@@ -33038,7 +33192,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Food samples",
@@ -33069,7 +33224,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Grand Champion Collection",
@@ -33101,7 +33257,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Bloodborne",
@@ -33131,7 +33288,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Godzilla",
@@ -33163,7 +33321,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Disney",
@@ -33195,7 +33354,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Angel Police El",
@@ -33227,7 +33387,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ace Attorney",
@@ -33257,7 +33418,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -33289,7 +33451,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hello Kitty",
@@ -33321,7 +33484,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Akami Karubi",
@@ -33353,7 +33517,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gunpla",
@@ -33383,7 +33548,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Haikyu!!",
@@ -33413,7 +33579,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "A Pharmacist's Monologue"
@@ -33442,7 +33609,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Black Butler"
@@ -33471,7 +33639,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Lupin the Third",
@@ -33503,7 +33672,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Haikyuu",
@@ -33535,7 +33705,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "eraser",
@@ -33567,7 +33738,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Assassination Classroom",
@@ -33598,7 +33770,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Gremlins",
@@ -33629,7 +33802,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "ONE PIECE",
@@ -33660,7 +33834,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ultraman"
@@ -33689,7 +33864,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Godzilla",
@@ -33719,7 +33895,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Marvel",
@@ -33749,7 +33926,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Animal Crossing",
@@ -33780,7 +33958,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ultra Monsters",
@@ -33811,7 +33990,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Figures",
@@ -33841,7 +34021,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Like a Yakuza"
@@ -33871,7 +34052,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ghibli"
@@ -33901,7 +34083,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Made in Abyss"
@@ -33931,7 +34114,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Hatsune Miku",
@@ -33961,7 +34145,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Bakemonogatari",
@@ -33993,7 +34178,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Leather craft",
@@ -34023,7 +34209,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Ultra Monsters",
@@ -34053,7 +34240,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Demon slayer"
@@ -34082,7 +34270,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Monster Hunter"
@@ -34112,7 +34301,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "alien",
@@ -34143,7 +34333,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "AKIRA"
@@ -34173,7 +34364,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "alien"
@@ -34203,7 +34395,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "alien",
@@ -34235,7 +34428,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "BEASTARS",
@@ -34266,7 +34460,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Tetsujin 28",
@@ -34297,7 +34492,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball"
@@ -34327,7 +34523,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "fighter jet",
@@ -34359,7 +34556,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Dragon Ball",
@@ -34390,7 +34588,8 @@
         "SOFT VYNIL FIGURE",
         "STUFFED TOYS",
         "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
       ],
       "tags": [
         "Yamanote Line Operation Guide 2025"
@@ -34626,7 +34825,6 @@
     "Hell Teacher Nube",
     "Hell's Paradise",
     "Hello Kitty",
-    "Hellraiser",
     "Hellsing",
     "High School DxD",
     "Higurashi When They Cry",
@@ -35054,7 +35252,6 @@
     "plant",
     "psychopath",
     "re:ZERO",
-    "ring",
     "sea ​​creatures",
     "seal",
     "ships",
@@ -35062,9 +35259,11 @@
     "snail shell",
     "souvenir",
     "stationery",
-    "the avengers"
+    "the avengers",
+    "ヘルレイザー",
+    "リンク"
   ],
-  "scraped_at": "2026-08-16 01:02:03",
+  "scraped_at": "2026-08-17 01:00:21",
   "total_cases": 1115,
-  "total_images": 3181
+  "total_images": 3182
 }
