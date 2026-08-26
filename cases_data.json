@@ -4299,9 +4299,9 @@
       "code": "B64",
       "number": 64,
       "letter": "B",
-      "date": "2026-01-16",
+      "date": "2026-08-26",
       "categories": [
-        "CHARACTER GOODS",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -4313,14 +4313,14 @@
         "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
       ],
       "tags": [
-        "Made in Abyss",
-        "SKULL PANDA"
+        "Digimon",
+        "Tamagotchi"
       ],
-      "title": "Various figures",
-      "caption": "Nanachi, POPMART, Pop Mart, Kyojuro Rengoku",
+      "title": "Digimon Tamagotchi Retro Games",
+      "caption": "DS game console, Digivice",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B64/20260115-19133506968bdcfefa03.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/B64/20260115-19133616968bdd0851e8.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B64/20260825-12084506a8d073d02ba6.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/B64/20260825-12084516a8d073dd48bc.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/B64.html"
     },
@@ -34519,6 +34519,7 @@
     "Devil May Cry",
     "Devilman",
     "Diamonds are unbreakable",
+    "Digimon",
     "Digimon Adventure",
     "Disney",
     "Dodomi",
@@ -35064,7 +35065,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-08-25 01:00:08",
+  "scraped_at": "2026-08-26 01:01:26",
   "total_cases": 1115,
   "total_images": 3183
 }
