@@ -21768,7 +21768,7 @@
       "code": "O40",
       "number": 40,
       "letter": "O",
-      "date": "2026-09-13",
+      "date": "2026-09-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -21782,16 +21782,16 @@
         "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
       ],
       "tags": [
-        "C2",
-        "Joker",
+        "C..C.",
+        "Karen",
         "Rei Ayanami"
       ],
       "title": "Prize Figures",
-      "caption": "Frieren, The Dangers in My Heart - Anna Yamada, Attack on Titan - Mikasa Ackerman, Marin Kitagawa, Yui Hirasawa, Azusa Nakano, Re:Zero - Rem, Muichiro Tokito, Persona 5 - Joker, Inuyasha, C2, Ellis, Rei Ayanami",
+      "caption": "Frieren, The Dangers in My Heart - Anna Yamada, Attack on Titan - Mikasa Ackerman, Marin Kitagawa, Yui Hirasawa, Azusa Nakano, Rem from Re:Zero, Muichiro Tokito, Joker from Persona 5, Inuyasha, C2, Ellis, Rei Ayanami, Karen, Nunnally",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260912-11262006aa4b84c2fced.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260912-11262016aa4b84cd7658.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260912-11262126aa4b84de55bf.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260915-12581006aa8c252405fe.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260915-12581116aa8c2537b395.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260915-12581226aa8c2545e793.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/O40.html"
     },
@@ -34466,7 +34466,7 @@
     "Bruce Lee",
     "Bungo Stray Dogs",
     "Button badges",
-    "C2",
+    "C..C.",
     "CRYBABY",
     "Canon",
     "Capsule toys",
@@ -34661,7 +34661,6 @@
     "JJK",
     "Jack Frost",
     "JoJo's Bizarre Adventure",
-    "Joker",
     "Jujutsu Kaisen",
     "Junji Ito \"Collection\"",
     "Junji Ito \"Crimson\"",
@@ -34680,6 +34679,7 @@
     "Kamen Rider V3",
     "Kannagi",
     "Kantai Collection",
+    "Karen",
     "Katekyo Hitman Reborn",
     "Ken Kaneki",
     "Key Chain",
@@ -35062,7 +35062,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-09-15 03:06:09",
+  "scraped_at": "2026-09-16 03:02:30",
   "total_cases": 1115,
   "total_images": 3178
 }
