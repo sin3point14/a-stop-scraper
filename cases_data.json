@@ -2172,7 +2172,7 @@
       "code": "A76",
       "number": 76,
       "letter": "A",
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -2192,9 +2192,9 @@
       "title": "K-On!, Re:Zero",
       "caption": "Azusa Nakano, Mio Akiyama, Yui Hirasawa, Rem",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260916-20285606aaa7d7885471.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260916-20285716aaa7d792294c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260916-20285726aaa7d79ccda6.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260919-16162506aae36c939042.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260919-16162616aae36caab3af.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20260919-16162726aae36cbe0dea.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/A76.html"
     },
@@ -5298,7 +5298,7 @@
       "code": "C02",
       "number": 2,
       "letter": "C",
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -5319,9 +5319,9 @@
       "title": "Shonen Jump Figure Atre Card",
       "caption": "Luffy, Shinobu Kocho, Atre Card",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260916-20294906aaa7dad7ad74.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260916-20294916aaa7dadd0603.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260916-20295026aaa7daebe8c9.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260919-16113606aae35a8a10d5.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260919-16113816aae35aa01a83.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20260919-16113926aae35ab62cc9.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C02.html"
     },
@@ -9330,7 +9330,7 @@
       "code": "E40",
       "number": 40,
       "letter": "E",
-      "date": "2026-09-18",
+      "date": "2026-09-20",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -9344,16 +9344,16 @@
         "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
       ],
       "tags": [
+        "Arya in Russian",
         "My Favorite Child",
-        "NOD",
-        "Shaman King"
+        "NOD"
       ],
       "title": "Oshi no Ko, Shaman King",
-      "caption": "Hoshino Ai, Hoshino Ruby, Arima Kana, Asakura Yoh, anime goods",
+      "caption": "Oshi no Ko, beautiful girl figure",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260917-21594406aabe44015613.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260917-21594416aabe440cf53d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260917-21594526aabe441573cc.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260919-16194606aae37928a309.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260919-16194716aae3793e0e93.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20260919-16194926aae379541c9d.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/E40.html"
     },
@@ -13734,7 +13734,7 @@
       "code": "G08",
       "number": 8,
       "letter": "G",
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -13754,9 +13754,9 @@
       "title": "That Time I Got Reincarnated as a Slime, Puella Magi Madoka Magica",
       "caption": "Rimuru, Diablo, Homura, Madoka",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260916-20293706aaa7da1dfab4.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260916-20293816aaa7da209dc8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260916-20293826aaa7da2b9ba8.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260919-16164606aae36de79ea1.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260919-16164616aae36de98d16.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/G08/20260919-16164726aae36df21625.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/G08.html"
     },
@@ -16553,35 +16553,6 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/H90/20260122-16551026971d7de6e134.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/H90.html"
-    },
-    {
-      "id": "H-91",
-      "code": "H91",
-      "number": 91,
-      "letter": "H",
-      "date": "2026-01-10",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
-      ],
-      "tags": [
-        "Dandadan"
-      ],
-      "title": "Dandadan Figure",
-      "caption": "Ken Takakura, Okarun, Momo Ayase, Momo, Hoshiko Ayase",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H91/20260109-12214706960744ba7d65.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H91/20260109-12214816960744c04014.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/H91.html"
     },
     {
       "id": "H-92",
@@ -21673,35 +21644,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/O36.html"
     },
     {
-      "id": "O-37",
-      "code": "O37",
-      "number": 37,
-      "letter": "O",
-      "date": "2026-06-19",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
-      ],
-      "tags": [
-        "Dragon Ball"
-      ],
-      "title": "Dragon Ball figures",
-      "caption": "Son Goku, Super Saiyan, Vegeta, Son Goku",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O37/20260618-13432206a33776ad9832.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O37/20260618-13432316a33776b0c2c5.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/O37.html"
-    },
-    {
       "id": "O-38",
       "code": "O38",
       "number": 38,
@@ -24547,7 +24489,7 @@
       "code": "P94",
       "number": 94,
       "letter": "P",
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -24566,9 +24508,9 @@
       "title": "That Time I Got Reincarnated as a Slime",
       "caption": "Rimuru Tempest, Ranga, Diablo",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260916-20292506aaa7d9534c59.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260916-20292516aaa7d955a6c5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260916-20292526aaa7d95d7567.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260919-16200406aae37a4e5236.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260919-16200516aae37a545c1e.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20260919-16200626aae37a662def.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P94.html"
     },
@@ -34430,6 +34372,7 @@
     "Aria the Scarlet Ammo",
     "Arknights",
     "Arsenal Base",
+    "Arya in Russian",
     "Assassination Classroom",
     "Astro Boy",
     "Asuka",
@@ -35063,7 +35006,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-09-19 02:52:06",
-  "total_cases": 1115,
-  "total_images": 3180
+  "scraped_at": "2026-09-20 03:03:55",
+  "total_cases": 1113,
+  "total_images": 3176
 }
