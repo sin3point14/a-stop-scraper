@@ -10944,7 +10944,7 @@
       "code": "F03",
       "number": 3,
       "letter": "F",
-      "date": "2026-09-05",
+      "date": "2026-09-26",
       "categories": [
         "Others",
         "CHARACTER GOODS",
@@ -10966,9 +10966,9 @@
       "title": "Squeeze",
       "caption": "Squishies, figurines, etc.",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260904-21300106a9ab9c97163d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260904-21300116a9ab9c9ec21c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260904-21300226a9ab9ca74683.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260925-21264106ab668815b2be.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260925-21264116ab66881d49cd.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F03/20260925-21264226ab66882c7491.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/F03.html"
     },
@@ -18261,7 +18261,7 @@
       "code": "K33",
       "number": 33,
       "letter": "K",
-      "date": "2026-09-19",
+      "date": "2026-09-26",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -18283,9 +18283,9 @@
       "title": "Specialty store for beautiful girl figures",
       "caption": "Albedo, Machibouke Gundam, Chainsaw Man, Pochita, The Melancholy of Haruhi Suzumiya, Sgt. Frog, My Neighbor Totoro, Rascal Does Not Dream of Bunny Girl Senpai, Aobuta, Rozen Maiden, Steins;Gate, Yukino Yukinoshita, Lum-chan, Rem",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260918-14573606aacd2d0afef8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260918-14573716aacd2d18962c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260918-14573826aacd2d229f92.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260925-19060606ab6478e2fd1d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260925-19060616ab6478e914eb.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/K33/20260925-19060826ab647900a36c.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/K33.html"
     },
@@ -22415,7 +22415,7 @@
       "code": "O40",
       "number": 40,
       "letter": "O",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "categories": [
         "フィギュア",
         "CHARACTER GOODS",
@@ -22431,15 +22431,15 @@
       ],
       "tags": [
         "C..C.",
-        "アオのハコ　2体セット",
-        "綾波レイ"
+        "綾波レイ",
+        "鹿野千夏、蝶野雛　2体セット"
       ],
       "title": "Prize Figures",
-      "caption": "Frieren, The Dangers in My Heart - Anna Yamada, Attack on Titan - Mikasa Ackerman, Marin Kitagawa, Yui Hirasawa, Azusa Nakano, Re:Zero - Rem, Muichiro Tokito, Persona 5 - Joker, Inuyasha - Elise, Code Geass: CC, Nunnally",
+      "caption": "Frieren, The Dangers in My Heart - Anna Yamada, Attack on Titan - Mikasa Ackerman, Marin Kitagawa, Yui Hirasawa, Azusa Nakano, Re:Zero - Rem, Muichiro Tokito, Persona 5 - Joker, Inuyasha - Elise, Code Geass: CC - Nunnally, Ao no Hako, Rei Ayanami",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260925-11412406ab5df54ef3fb.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260925-11412616ab5df569b2c5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260925-11412726ab5df57c9281.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260926-10331306ab720d9ccc50.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260926-10331416ab720da699d1.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O40/20260926-10331426ab720dae6019.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/O40.html"
     },
@@ -36116,10 +36116,10 @@
     "souvenir",
     "stationery",
     "the avengers",
-    "アオのハコ　2体セット",
-    "綾波レイ"
+    "綾波レイ",
+    "鹿野千夏、蝶野雛　2体セット"
   ],
-  "scraped_at": "2026-09-25 03:08:50",
+  "scraped_at": "2026-09-26 03:12:43",
   "total_cases": 1113,
   "total_images": 3176
 }
