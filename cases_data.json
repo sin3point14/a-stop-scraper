@@ -5296,7 +5296,7 @@
       "code": "C02",
       "number": 2,
       "letter": "C",
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -5317,9 +5317,9 @@
       "title": "Shonen Jump Figure Atre Card",
       "caption": "Luffy, Ace, Nezuko, Atre Card",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261001-20121206abe400c0e8d8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261001-20121216abe400c342ff.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261001-20121226abe400cb05cb.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261004-13142506ac1d2a1a692c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261004-13142516ac1d2a1d2030.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261004-13142626ac1d2a25cb01.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C02.html"
     },
@@ -7674,7 +7674,7 @@
       "code": "C81",
       "number": 81,
       "letter": "C",
-      "date": "2026-09-14",
+      "date": "2026-10-05",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -7688,14 +7688,15 @@
         "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
       ],
       "tags": [
-        "BLEACH"
+        "Konata Izumi",
+        "Rurouni Kenshin"
       ],
       "title": "Figure",
-      "caption": "Bleach, Yuna Amagami, Asuka Langley Soryu, Larva/Tiamat",
+      "caption": "Yuna Amagami, Asuka Langley Soryu, Larva/Tiamat, Rurouni Kenshin",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20260913-16112506aa64c9de5a1b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20260913-16112616aa64c9e91994.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20260913-16112726aa64c9f311ca.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20261004-13425706ac1d951e70ec.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20261004-13425916ac1d953578e5.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C81/20261004-13430026ac1d9548a280.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C81.html"
     },
@@ -21648,7 +21649,7 @@
       "code": "O38",
       "number": 38,
       "letter": "O",
-      "date": "2026-09-29",
+      "date": "2026-10-05",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -21669,9 +21670,9 @@
       "title": "Oremo and other figures",
       "caption": "Akane Shinjo, Tanjiro Kamado, Nana Asta Deviluke, Mikuru, Haruhi",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20260928-23454906aba7d9dd996d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20260928-23455016aba7d9ed5922.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20260928-23455226aba7da017607.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20261004-13573406ac1dcbe6acc4.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20261004-13573416ac1dcbe91baf.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/O38/20261004-13573426ac1dcbecea96.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/O38.html"
     },
@@ -24489,7 +24490,7 @@
       "code": "P94",
       "number": 94,
       "letter": "P",
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -24508,9 +24509,9 @@
       "title": "That Time I Got Reincarnated as a Slime",
       "caption": "Rimuru Tempest, Diablo, Shizu",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261001-20123306abe40211ee2a.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261001-20123316abe4021447ea.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261001-20123426abe402230c85.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261004-13144006ac1d2b01aab2.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261004-13144016ac1d2b03ed96.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261004-13144026ac1d2b0bdacc.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P94.html"
     },
@@ -34639,6 +34640,7 @@
     "Kirby of the Stars",
     "Kizumonogatari",
     "Knights of Sidonia",
+    "Konata Izumi",
     "KonoSuba: God's Blessing on This Wonderful World!",
     "Kuroko's Basketball",
     "Kyosho",
@@ -35011,7 +35013,7 @@
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-10-04 03:59:59",
+  "scraped_at": "2026-10-05 03:44:40",
   "total_cases": 1113,
   "total_images": 3177
 }
