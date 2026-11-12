@@ -2170,7 +2170,7 @@
       "code": "A76",
       "number": 76,
       "letter": "A",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -2190,9 +2190,9 @@
       "title": "K-On!, Re:Zero",
       "caption": "Azusa Nakano, Mio Akiyama, Yui Hirasawa, Rem",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261110-19475906af2f65fab93f.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261110-19475916af2f65fd3cb3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261110-19480026af2f660899dd.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261111-17013606af420e016726.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261111-17013716af420e168e5d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261111-17013826af420e2b0113.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/A76.html"
     },
@@ -5604,7 +5604,7 @@
       "code": "C12",
       "number": 12,
       "letter": "C",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -5624,9 +5624,9 @@
       "title": "Naruto Figure",
       "caption": "Naruto Uzumaki, Sasuke Uchiha, Madara Uchiha, Itachi Uchiha, Kakashi Hatake, Hidan, Orochimaru, Minato, Kushina Akatsuki Vibration Stars Grandista Sculpting Ninja World War GIGO Limited Edition",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261109-17401806af186f2adafe.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261109-17401816af186f2e2ce1.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261109-17401926af186f36146d.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520306af43ac3d1e74.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520416af43ac40a563.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520426af43ac489264.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C12.html"
     },
@@ -6226,7 +6226,7 @@
       "code": "C32",
       "number": 32,
       "letter": "C",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -6246,9 +6246,9 @@
       "title": "HUNTER×HUNTER",
       "caption": "Killua, Kurapika, Hisoka, Chlorogon, Illumi, Meruem, Greed Island",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261109-17402906af186fd784d5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261109-17402916af186fda5128.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261109-17403026af186fe30336.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525506af43af766a5b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525616af43af82c36b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525626af43af8e79cf.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C32.html"
     },
@@ -22230,40 +22230,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/O56.html"
     },
     {
-      "id": "O-57",
-      "code": "O57",
-      "number": 57,
-      "letter": "O",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
-      ],
-      "tags": [
-        "God's blessing on this wonderful world!",
-        "Overload",
-        "Re:ZERO -Starting Life in Another World-"
-      ],
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "caption": "Re:ZERO -Starting Life in Another World- Rem, Ram, Emilia, Echidna, Overlord, Albedo, Ainz Ooal Gown",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O57/20260107-1555350695e0367c0d5c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O57/20260107-1555361695e03685d2df.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O57/20260107-1555362695e0368dba50.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O57/20260107-1555373695e0369641d3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/O57/20260107-1555374695e0369de09c.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/O57.html"
-    },
-    {
       "id": "P-01",
       "code": "P01",
       "number": 1,
@@ -24455,7 +24421,7 @@
       "code": "P94",
       "number": 94,
       "letter": "P",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -24474,9 +24440,9 @@
       "title": "That Time I Got Reincarnated as a Slime",
       "caption": "Rimuru Tempest, Diablo,",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261110-19484306af2f68b4eb32.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261110-19484316af2f68b7396d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261110-19484326af2f68bed934.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261111-17024106af42121beffe.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261111-17024316af42123e4ecc.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261111-17024526af4212545d68.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P94.html"
     },
@@ -25741,7 +25707,7 @@
       "code": "R29",
       "number": 29,
       "letter": "R",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -25761,9 +25727,9 @@
       "title": "One Piece Figures",
       "caption": "One Piece Chopper, Luffy, Zoro, Buggy, Hiluluk, Shichibukai World Collectible Figures - KING OF ARTIST BASE SHOP",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261109-17383906af1868fc5c7d.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261109-17384116af1869162f9f.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261109-17384226af186924d526.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545506af43b6f63224.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545616af43b7040572.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545626af43b70ec226.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R29.html"
     },
@@ -25834,7 +25800,7 @@
       "code": "R32",
       "number": 32,
       "letter": "R",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -25854,9 +25820,9 @@
       "title": "Demon Slayer: Kimetsu no Yaiba Figure",
       "caption": "Kamado Tanjiro, Kamado Nezuko, Rengoku Kyojuro, Akaza Doma, Kocho Shinobu, Uzui Tengen, Agatsuma Zenitsu, Tomioka Giyu, Iguro Obanai, Kanroji Mitsuri, Vibration Stars Ichiban Kuji Grandista Kizuna no So Chokonose",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261109-17391106af186afd54e5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261109-17391216af186b08f740.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261109-17391326af186b181a1d.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551306af43b81c6702.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551416af43b823d31c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551526af43b832c215.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R32.html"
     },
@@ -27097,7 +27063,7 @@
       "code": "R73",
       "number": 73,
       "letter": "R",
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -27116,11 +27082,11 @@
         "Jujutsu Kaisen"
       ],
       "title": "Jujutsu Kaisen Hatsune Miku Figure",
-      "caption": "Makora, Ryomen Sukuna, Nanami Kento, Inumaki Toge, Okkotsu Yuta, KING OF ARTIST, Hatsune Miku, Kuromi, desktop, Kurosaki Ichigo, Hitsugaya, Death Note, Amane Misa",
+      "caption": "Makora Ryomen Sukuna Nanami Kento Inumaki Toge Okkotsu Yuta Mechamaru KING OF ARTIST Hatsune Miku Kuromi Sakura Miku desktop death note Amane Misa",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261109-17400506af186e5078a0.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261109-17400516af186e5ece50.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261109-17400726af186e7357b0.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563706af43bd5e692b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563816af43bd619469.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563826af43bd697e40.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R73.html"
     },
@@ -31246,40 +31212,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/X38.html"
     },
     {
-      "id": "X-39",
-      "code": "X39",
-      "number": 39,
-      "letter": "X",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
-      ],
-      "tags": [
-        "Berserk",
-        "Collapsed Star Rail",
-        "snail shell"
-      ],
-      "title": "Berserk",
-      "caption": "Berserk Guts Snail Shell Holiday Relaxation Irene NIKKE Marian and other figmas",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X39/20260107-1557110695e03c777665.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X39/20260107-1557111695e03c7a3ca5.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X39/20260107-1557122695e03c82e728.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X39/20260107-1557133695e03c9274dc.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X39/20260107-1557134695e03c9a3f84.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/X39.html"
-    },
-    {
       "id": "X-91",
       "code": "X91",
       "number": 91,
@@ -33021,38 +32953,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/Z53.html"
     },
     {
-      "id": "Z-54",
-      "code": "Z54",
-      "number": 54,
-      "letter": "Z",
-      "date": "2026-01-05",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE"
-      ],
-      "tags": [
-        "Godzilla",
-        "My Neighbor Totoro",
-        "Zootopia"
-      ],
-      "title": "Various figures",
-      "caption": "Godzilla, Totoro, Mei-chan, Haku, Fate, Saber, Mario, Lupin the Third",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z54/20251226-1923200694e62180f4ab.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z54/20251226-1923201694e621838cc8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z54/20251226-1923202694e6218b52c3.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/Z54.html"
-    },
-    {
       "id": "Z-55",
       "code": "Z55",
       "number": 55,
@@ -34398,7 +34298,6 @@
     "Code Geass: Lelouch of the Rebellion",
     "Collapse",
     "Collapse: Star Rail",
-    "Collapsed Star Rail",
     "Combattler V",
     "Cowboy Bebop",
     "Crayon Shin-chan",
@@ -34931,7 +34830,6 @@
     "Yu-Gi-Oh! Duel Monsters",
     "Z Gundam",
     "Zatch Bell",
-    "Zootopia",
     "Zundamon",
     "alien",
     "animal",
@@ -34964,12 +34862,11 @@
     "seal",
     "ships",
     "silent hill",
-    "snail shell",
     "souvenir",
     "stationery",
     "the avengers"
   ],
-  "scraped_at": "2026-11-11 04:23:37",
-  "total_cases": 1112,
-  "total_images": 3165
+  "scraped_at": "2026-11-12 05:30:33",
+  "total_cases": 1109,
+  "total_images": 3152
 }
