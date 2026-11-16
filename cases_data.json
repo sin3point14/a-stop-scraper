@@ -2240,7 +2240,7 @@
       "code": "A76",
       "number": 76,
       "letter": "A",
-      "date": "2026-11-14",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -2261,9 +2261,9 @@
       "title": "K-On!, Re:Zero",
       "caption": "Azusa Nakano, Mio Akiyama, Yui Hirasawa, Rem",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261113-20182906af6f2055b09f.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261113-20183016af6f2065aa8a.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261113-20183026af6f206d6b09.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261115-18005806af974caca464.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261115-18005816af974caf032a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/A76/20261115-18005926af974cb78463.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/A76.html"
     },
@@ -5368,9 +5368,9 @@
       "code": "B133",
       "number": 133,
       "letter": "B",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "categories": [
-        "フィギュア",
+        "FIGURES",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -5383,10 +5383,10 @@
         "フィギュア"
       ],
       "tags": [
-        "鬼滅の刃"
+        "Demon slayer"
       ],
-      "title": "鬼滅の刃屋",
-      "caption": "",
+      "title": "Demon Slayer Shop",
+      "caption": "We mainly deal in Demon Slayer figures (Ichiban Kuji, prize items) and merchandise. ↓List of characters currently in the display case: Nezuko Kamado, Shinobu Kocho, Doma",
       "images": [
         "https://astop-webapp.sakura.ne.jp/image/css/2/B133/20261115-03541506af8ae5736366.jpg",
         "https://astop-webapp.sakura.ne.jp/image/css/2/B133/20261115-03541516af8ae5787219.jpg",
@@ -5431,7 +5431,7 @@
       "code": "C02",
       "number": 2,
       "letter": "C",
-      "date": "2026-11-14",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -5453,9 +5453,9 @@
       "title": "Shonen Jump Figure Atre Card",
       "caption": "Luffy, Ace, Nezuko, Atre Card",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261113-17413506af6cd3f956aa.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261113-17413616af6cd40330c8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261113-17413726af6cd411cd5a.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261115-15484906af955d129cc2.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261115-15484916af955d15178b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C02/20261115-15484926af955d1d08c9.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C02.html"
     },
@@ -5719,9 +5719,9 @@
       "code": "C12",
       "number": 12,
       "letter": "C",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "STUFFED TOYS",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -5734,15 +5734,14 @@
         "フィギュア"
       ],
       "tags": [
-        "NARUTO",
-        "Shonen Jump"
+        "Kirby"
       ],
-      "title": "Naruto Figure",
-      "caption": "Naruto Uzumaki, Sasuke Uchiha, Madara Uchiha, Itachi Uchiha, Kakashi Hatake, Hidan, Orochimaru, Minato, Kushina Akatsuki Vibration Stars Grandista Sculpting Ninja World War GIGO Limited Edition",
+      "title": "Kirby",
+      "caption": "Kirby plush figure Waddle Dee Nintendo",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520306af43ac3d1e74.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520416af43ac40a563.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261111-18520426af43ac489264.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261115-20054706af9920bde433.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261115-20054816af9920ca6b1e.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C12/20261115-20054926af9920d72d8e.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C12.html"
     },
@@ -6262,9 +6261,9 @@
       "code": "C32",
       "number": 32,
       "letter": "C",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "STUFFED TOYS",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -6277,15 +6276,15 @@
         "フィギュア"
       ],
       "tags": [
-        "HUNTER×HUNTER",
-        "Shonen Jump"
+        "Chiikawa",
+        "Monchhichi"
       ],
-      "title": "HUNTER×HUNTER",
-      "caption": "Killua, Kurapika, Hisoka, Chlorogon, Illumi, Meruem, Greed Island",
+      "title": "Chiikawa plush toy",
+      "caption": "Chiikawa Hachiware Rabbit Momonga Monchichi",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525506af43af766a5b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525616af43af82c36b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261111-18525626af43af8e79cf.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261115-20071206af9926021f4a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261115-20071316af9926147f44.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C32/20261115-20071426af992627d768.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C32.html"
     },
@@ -6707,9 +6706,9 @@
       "code": "C51",
       "number": 51,
       "letter": "C",
-      "date": "2026-10-27",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "フィギュア",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -6722,15 +6721,13 @@
         "フィギュア"
       ],
       "tags": [
-        "A Pharmacist's Monologue",
-        "Frieren: Beyond Journey's End"
+        "ワンピース"
       ],
       "title": "Frieren for the Funeral",
       "caption": "The Apothecary Diaries, Frieren: Beyond Journey's End",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C51/20261026-11020706adeb49f2ff3b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C51/20261026-11020816adeb4a002da2.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/C51/20261026-11020926adeb4a13ec9f.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C51/20261116-12553206afa7eb40a56c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/C51/20261116-12553316afa7eb53071a.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/C51.html"
     },
@@ -9433,7 +9430,7 @@
       "code": "E40",
       "number": 40,
       "letter": "E",
-      "date": "2026-11-14",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -9455,9 +9452,9 @@
       "title": "Oshi no Ko, Shaman King",
       "caption": "Oshi no Ko, beautiful girl figure",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261113-17414906af6cd4d65dcf.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261113-17414916af6cd4def0e4.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261113-17415026af6cd4e771ea.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261115-15490006af955dc5708c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261115-15490016af955dc7da62.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E40/20261115-15490126af955dd05bc5.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/E40.html"
     },
@@ -10363,9 +10360,9 @@
       "code": "E71",
       "number": 71,
       "letter": "E",
-      "date": "2026-09-01",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "フィギュア",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -10378,14 +10375,14 @@
         "フィギュア"
       ],
       "tags": [
-        "Attack on Titan"
+        "進撃の巨人"
       ],
       "title": "Attack on Titan",
       "caption": "Attack on Titan: Levi, Hange, Jean, Sasha, Connie, Annie, Eren Yeager",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20260831-13281506a9502df287a6.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20260831-13281616a9502e05cd9a.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20260831-13281726a9502e128c4e.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20261116-12561806afa7ee2e3624.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20261116-12561916afa7ee333920.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E71/20261116-12562026afa7ee43d805.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/E71.html"
     },
@@ -10394,9 +10391,9 @@
       "code": "E72",
       "number": 72,
       "letter": "E",
-      "date": "2026-09-01",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "フィギュア",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -10409,14 +10406,14 @@
         "フィギュア"
       ],
       "tags": [
-        "Attack on Titan"
+        "進撃の巨人"
       ],
       "title": "Attack on Titan",
       "caption": "Attack on Titan: Levi, Hange, Jean, Sasha, Connie, Annie, Eren Yeager",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20260831-13295306a950341791d4.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20260831-13295416a950342534b3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20260831-13295526a95034320f9d.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20261116-12564906afa7f012e1f5.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20261116-12564916afa7f0172793.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/E72/20261116-12565026afa7f024e150.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/E72.html"
     },
@@ -13786,6 +13783,126 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/F118.html"
     },
     {
+      "id": "F-139",
+      "code": "F139",
+      "number": 139,
+      "letter": "F",
+      "date": "2026-11-16",
+      "categories": [
+        "フィギュア",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "進撃の巨人"
+      ],
+      "title": "進撃の巨人",
+      "caption": "進撃の巨人",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F139/20261116-12580406afa7f4cd616e.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F139/20261116-12580616afa7f4e209d8.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/F139.html"
+    },
+    {
+      "id": "F-140",
+      "code": "F140",
+      "number": 140,
+      "letter": "F",
+      "date": "2026-11-16",
+      "categories": [
+        "フィギュア",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "葬送のフリーレン"
+      ],
+      "title": "葬送のフリーレン",
+      "caption": "葬送のフリーレン　フリーレン",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F140/20261116-12592306afa7f9bd0958.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F140/20261116-12592416afa7f9cc0609.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/F140.html"
+    },
+    {
+      "id": "F-141",
+      "code": "F141",
+      "number": 141,
+      "letter": "F",
+      "date": "2026-11-16",
+      "categories": [
+        "フィギュア",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "薬屋のひとりごと"
+      ],
+      "title": "薬屋のひとりごと",
+      "caption": "薬屋のひとりごと　猫猫",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F141/20261116-13001906afa7fd314a7b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F141/20261116-13001916afa7fd3d9d95.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/F141.html"
+    },
+    {
+      "id": "F-142",
+      "code": "F142",
+      "number": 142,
+      "letter": "F",
+      "date": "2026-11-16",
+      "categories": [
+        "フィギュア",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "初音ミク"
+      ],
+      "title": "初音ミク",
+      "caption": "初音ミク",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F142/20261116-13010306afa7fffb7804.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/F142/20261116-13010416afa80008472b.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/F142.html"
+    },
+    {
       "id": "G-01",
       "code": "G01",
       "number": 1,
@@ -14238,7 +14355,7 @@
       "code": "H03",
       "number": 3,
       "letter": "H",
-      "date": "2026-11-09",
+      "date": "2026-11-16",
       "categories": [
         "MINIATURE CAR",
         "CHARACTER GOODS",
@@ -14259,9 +14376,9 @@
       "title": "Tomica",
       "caption": "NISSAN, HONDA, TOYOTA, Ferrari, Lamborghini,",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261108-11440106aefe1f189222.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261108-11440216aefe1f28ef60.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261108-11440326aefe1f32cdd6.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261115-19040906af98399e0c34.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261115-19041016af9839a66a81.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/H03/20261115-19041126af9839b0f660.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/H03.html"
     },
@@ -24371,66 +24488,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/P54.html"
     },
     {
-      "id": "P-55",
-      "code": "P55",
-      "number": 55,
-      "letter": "P",
-      "date": "2026-01-07",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Kuroko's Basketball"
-      ],
-      "title": "Kuroko's Basketball",
-      "caption": "Atsushi Murasakibara Shintaro Midorima Tetsuya Kuroko Daiki Aomine",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P55/20260106-1528450695cab9db2c04.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P55/20260106-1528451695cab9dd7544.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P55.html"
-    },
-    {
-      "id": "P-56",
-      "code": "P56",
-      "number": 56,
-      "letter": "P",
-      "date": "2026-01-07",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Haikyu!!"
-      ],
-      "title": "Haikyu!!",
-      "caption": "Kuzume Grinding Gray Feather Life",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P56/20260106-1528570695caba97e05e.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P56/20260106-1528571695caba9a1aaf.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P56.html"
-    },
-    {
       "id": "P-57",
       "code": "P57",
       "number": 57,
@@ -24524,36 +24581,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/P59.html"
     },
     {
-      "id": "P-60",
-      "code": "P60",
-      "number": 60,
-      "letter": "P",
-      "date": "2026-01-07",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Touken Ranbu"
-      ],
-      "title": "Touken Ranbu",
-      "caption": "Touken Ranbu Tsurumaru Kuninaga Yamaubakiri Kunihiro",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P60/20260106-1556590695cb23ba273a.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P60/20260106-1557001695cb23c059a6.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P60.html"
-    },
-    {
       "id": "P-63",
       "code": "P63",
       "number": 63,
@@ -24584,130 +24611,6 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/P63/20260108-1221501695f22ce2c00e.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P63.html"
-    },
-    {
-      "id": "P-65",
-      "code": "P65",
-      "number": 65,
-      "letter": "P",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "City Hunter",
-        "Hell's Paradise",
-        "SANDLAND"
-      ],
-      "title": "stock",
-      "caption": "Hell's Paradise Gabimaru Yamada Asaemon Sakiri Yamada Asaemon Shien City Hunter Saeba Ryo Makimura Kaori SANDLAND Beelzebub",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P65/20260107-1435440695df0b031aa3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P65/20260107-1435441695df0b05a605.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P65.html"
-    },
-    {
-      "id": "P-66",
-      "code": "P66",
-      "number": 66,
-      "letter": "P",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Blue Rock",
-        "Haikyuu"
-      ],
-      "title": "stock",
-      "caption": "Haikyuu Kenma Kuroo Tetsuro Tsukishima Kei Oikawa Tooru Blue Lock Horaku Mawari Nagi Seishiro Mikage Reo",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P66/20260107-1436450695df0edb0fe1.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P66/20260107-1436461695df0ee47bea.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P66.html"
-    },
-    {
-      "id": "P-67",
-      "code": "P67",
-      "number": 67,
-      "letter": "P",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Haikyuu"
-      ],
-      "title": "stock",
-      "caption": "Haikyuu Hinata Shoyo Kageyama Tobio Nishinoya Yu Miya Osamu Kozume Kenma Kuroo Tetsuro",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P67/20260107-1436580695df0fa191cb.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P67/20260107-1436581695df0fa3d6a7.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P67.html"
-    },
-    {
-      "id": "P-68",
-      "code": "P68",
-      "number": 68,
-      "letter": "P",
-      "date": "2026-01-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "BLEACH",
-        "Haikyuu"
-      ],
-      "title": "stock",
-      "caption": "Haikyuu Miya Atsumu BLEACH Ichigo Kurosaki Toshiro Hitsugaya Renji Abarai Kenpachi Zaraki",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P68/20260107-1437250695df115649af.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P68/20260107-1437251695df1158e3ba.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/P68.html"
     },
     {
       "id": "P-69",
@@ -24963,7 +24866,7 @@
       "code": "P94",
       "number": 94,
       "letter": "P",
-      "date": "2026-11-14",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -24983,9 +24886,8 @@
       "title": "That Time I Got Reincarnated as a Slime",
       "caption": "Rimuru Tempest, Diablo,",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261113-17421906af6cd6b8e3db.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261113-17422016af6cd6c90075.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261113-17422126af6cd6d0e30e.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261115-15492406af955f42556b.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/P94/20261115-15492416af955f44a675.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/P94.html"
     },
@@ -26290,7 +26192,7 @@
       "code": "R29",
       "number": 29,
       "letter": "R",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -26305,15 +26207,14 @@
         "フィギュア"
       ],
       "tags": [
-        "ONE PIECE",
-        "Shonen Jump"
+        "Hatsune Miku"
       ],
-      "title": "One Piece Figures",
-      "caption": "One Piece Chopper, Luffy, Zoro, Buggy, Hiluluk, Shichibukai World Collectible Figures - KING OF ARTIST BASE SHOP",
+      "title": "Hatsune Miku figure",
+      "caption": "Hatsune Miku Sakura Miku Snow Miku Kuromi Gundam",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545506af43b6f63224.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545616af43b7040572.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261111-18545626af43b70ec226.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261115-20085206af992c4c3e2c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261115-20085316af992c58dd4d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R29/20261115-20085426af992c65a5e8.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R29.html"
     },
@@ -26355,9 +26256,9 @@
       "code": "R31",
       "number": 31,
       "letter": "R",
-      "date": "2026-10-14",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "フィギュア",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -26370,14 +26271,13 @@
         "フィギュア"
       ],
       "tags": [
-        "Hatsune Miku"
+        "ワンピース"
       ],
       "title": "Hatsune Miku",
       "caption": "Hatsune Miku, Snow Miku",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R31/20261013-10312806acd89f03c9b8.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R31/20261013-10312916acd89f12d9e4.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R31/20261013-10313026acd89f214f49.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R31/20261116-12533806afa7e42018db.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R31/20261116-12533916afa7e4395b7c.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R31.html"
     },
@@ -26386,9 +26286,9 @@
       "code": "R32",
       "number": 32,
       "letter": "R",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "categories": [
-        "FIGURES",
+        "STUFFED TOYS",
         "CHARACTER GOODS",
         "FIGURES",
         "IDOL GOODS",
@@ -26401,15 +26301,14 @@
         "フィギュア"
       ],
       "tags": [
-        "Demon slayer",
-        "Shonen Jump"
+        "Pokémon"
       ],
-      "title": "Demon Slayer: Kimetsu no Yaiba Figure",
-      "caption": "Kamado Tanjiro, Kamado Nezuko, Rengoku Kyojuro, Akaza Doma, Kocho Shinobu, Uzui Tengen, Agatsuma Zenitsu, Tomioka Giyu, Iguro Obanai, Kanroji Mitsuri, Vibration Stars Ichiban Kuji Grandista Kizuna no So Chokonose",
+      "title": "Pokémon",
+      "caption": "Pokémon Plush Figures: Cynthia, Pikachu, Eevee",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551306af43b81c6702.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551416af43b823d31c.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261111-18551526af43b832c215.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261115-20113306af99365655a2.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261115-20113416af993662f88a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R32/20261115-20113426af99366eb6cb.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R32.html"
     },
@@ -27690,7 +27589,7 @@
       "code": "R73",
       "number": 73,
       "letter": "R",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -27706,15 +27605,15 @@
       ],
       "tags": [
         "death note",
-        "Hatsune Miku",
-        "Jujutsu Kaisen"
+        "Evangelion",
+        "Godzilla"
       ],
-      "title": "Jujutsu Kaisen Hatsune Miku Figure",
-      "caption": "Makora Ryomen Sukuna Nanami Kento Inumaki Toge Okkotsu Yuta Mechamaru KING OF ARTIST Hatsune Miku Kuromi Sakura Miku desktop death note Amane Misa",
+      "title": "Godzilla Evangelion Figures",
+      "caption": "Rei Ayanami, Asuka, The Pharmacist's Monologue, Maomao, Death Note, Misa Amane",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563706af43bd5e692b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563816af43bd619469.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261111-18563826af43bd697e40.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261115-20134206af993e66f278.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261115-20134316af993e73f574.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/R73/20261115-20134426af993e802f56.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R73.html"
     },
@@ -27940,6 +27839,257 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/R80/20260115-18052126968add13be24.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/R80.html"
+    },
+    {
+      "id": "T-45",
+      "code": "T45",
+      "number": 45,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "Akira Toriyama",
+        "Dragon Ball"
+      ],
+      "title": "Dragon Ball figures",
+      "caption": "Son Goku, Vegeta, Bulma, Majin Buu, Vegito History Box",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T45/20261115-19515206af98ec80e51f.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T45/20261115-19515216af98ec8cd79d.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T45/20261115-19515326af98ec99349f.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T45.html"
+    },
+    {
+      "id": "T-46",
+      "code": "T46",
+      "number": 46,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "Demon slayer"
+      ],
+      "title": "Demon Slayer figures",
+      "caption": "Kamado Tanjiro, Kamado Nezuko, Rengoku Kyojuro, Akaza Doma, Kocho Shinobu, Uzui Tengen, Agatsuma Zenitsu, Tomioka Giyu, Iguro Obanai, Kanroji Mitsuri, Vibration Stars Ichiban Kuji Grandista Kizuna no So Chokonose",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T46/20261115-19534006af98f3477634.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T46/20261115-19534116af98f3542a4e.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T46/20261115-19534226af98f360b7f2.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T46.html"
+    },
+    {
+      "id": "T-47",
+      "code": "T47",
+      "number": 47,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "Jujutsu Kaisen"
+      ],
+      "title": "Jujutsu Kaisen Figures",
+      "caption": "Makora, Ryomen Sukuna, Nanami Kento, Inumaki Toge, Okkotsu Yuta, Judge Man, KING OF ARTIST",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T47/20261115-19554406af98fb090bc7.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T47/20261115-19554516af98fb1bbb55.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T47/20261115-19554626af98fb2815c5.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T47.html"
+    },
+    {
+      "id": "T-48",
+      "code": "T48",
+      "number": 48,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "ONE PIECE"
+      ],
+      "title": "ONE PIECE",
+      "caption": "BASE SHOP Luffy Golden Playing Cards",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T48/20261115-20021606af99138ce8af.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T48/20261115-20021716af991399e352.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T48/20261115-20021826af9913a65a05.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T48.html"
+    },
+    {
+      "id": "T-49",
+      "code": "T49",
+      "number": 49,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "ONE PIECE"
+      ],
+      "title": "One Piece Figures",
+      "caption": "Chopper, Luffy, Zoro, Hilulu, Enel, Mihawk, Shichibukai, WCF KING OF ARTIST BASE SHOP",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T49/20261115-19580906af990410a537.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T49/20261115-19580916af99041c73fb.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T49/20261115-19581026af990428c878.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T49.html"
+    },
+    {
+      "id": "T-50",
+      "code": "T50",
+      "number": 50,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "BORUTO",
+        "NARUTO"
+      ],
+      "title": "NARUTO figures",
+      "caption": "Naruto Uzumaki, Sasuke Uchiha, Madara Uchiha, Itachi Uchiha, Kakashi Hatake, Hidan, Orochimaru, Minato, Kushina Akatsuki Vibration Stars Grandista Sculpting Ninja World War GIGO Limited Edition",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T50/20261115-19484106af98e09bc984.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T50/20261115-19484216af98e0a83272.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T50/20261115-19484326af98e0b4f1d4.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T50.html"
+    },
+    {
+      "id": "T-51",
+      "code": "T51",
+      "number": 51,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "HUNTER×HUNTER",
+        "Yoshihiro Togashi"
+      ],
+      "title": "HUNTER×HUNTER Figures",
+      "caption": "Gon, Killua, Kurapika, Hisoka, Chrollo, Illumi, Meruem, Greed Island",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T51/20261115-20003206af990d08d6ac.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T51/20261115-20003316af990d1b6d79.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T51/20261115-20003426af990d2ad454.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T51.html"
+    },
+    {
+      "id": "T-52",
+      "code": "T52",
+      "number": 52,
+      "letter": "T",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "ONE PIECE"
+      ],
+      "title": "ONE PIECE",
+      "caption": "BASE SHOP Eiichiro Oda World Collectable Figure",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T52/20261115-20035406af9919ab6517.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T52/20261115-20035516af9919bcd10a.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/T52/20261115-20035626af9919cc8238.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/T52.html"
     },
     {
       "id": "W-01",
@@ -31818,7 +31968,7 @@
       "code": "X34",
       "number": 34,
       "letter": "X",
-      "date": "2026-11-01",
+      "date": "2026-11-16",
       "categories": [
         "FIGURES",
         "CHARACTER GOODS",
@@ -31839,9 +31989,9 @@
       "title": "Siegax Dandadan and others",
       "caption": "Machu Banpresto Figure Momo Relax time and other prize latest work \"Chomageya\"",
       "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261031-13315006ae56f365c7ad.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261031-13315016ae56f36b7043.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261031-13315126ae56f3759c84.jpg"
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261115-16154906af95c25a92d9.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261115-16155016af95c260e62c.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/X34/20261115-16155026af95c268c2ab.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/X34.html"
     },
@@ -32129,6 +32279,36 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/X95/20260110-14173926961e0f3bf8d8.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/X95.html"
+    },
+    {
+      "id": "Y-23",
+      "code": "Y23",
+      "number": 23,
+      "letter": "Y",
+      "date": "2026-11-16",
+      "categories": [
+        "FIGURES",
+        "CHARACTER GOODS",
+        "FIGURES",
+        "IDOL GOODS",
+        "MINIATURE CAR",
+        "Others",
+        "SOFT VYNIL FIGURE",
+        "STUFFED TOYS",
+        "Trading Card Game/TCG",
+        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
+        "フィギュア"
+      ],
+      "tags": [
+        "ONE PIECE"
+      ],
+      "title": "one piece",
+      "caption": "One Piece Figures",
+      "images": [
+        "https://astop-webapp.sakura.ne.jp/image/css/2/Y23/20261115-21135306af9a201a32ad.jpg",
+        "https://astop-webapp.sakura.ne.jp/image/css/2/Y23/20261115-21135516af9a203b79ee.jpg"
+      ],
+      "url": "https://www.astop.co.jp/zone/en/caselist/Y23.html"
     },
     {
       "id": "Z-01",
@@ -32445,38 +32625,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/Z17.html"
     },
     {
-      "id": "Z-19",
-      "code": "Z19",
-      "number": 19,
-      "letter": "Z",
-      "date": "2026-01-12",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Haikyu!!",
-        "Kuroko's Basketball"
-      ],
-      "title": "Various Figure Skating (Sports)",
-      "caption": "Kuroko Tetsuya, Oikawa Tooru, Kagami Taiga, Akashi Seijuro, Kageyama Tobio",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z19/20260111-14211906963334fd725b.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z19/20260111-142120169633350392a9.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z19/20260111-14212026963335075dda.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/Z19.html"
-    },
-    {
       "id": "Z-21",
       "code": "Z21",
       "number": 21,
@@ -32755,39 +32903,6 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/Z31/20260519-16012916a0c0ac9107a5.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/Z31.html"
-    },
-    {
-      "id": "Z-33",
-      "code": "Z33",
-      "number": 33,
-      "letter": "Z",
-      "date": "2026-01-07",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Disney",
-        "The Nightmare Before Christmas",
-        "Touken Ranbu"
-      ],
-      "title": "Touken Ranbu Disney",
-      "caption": "Touken Ranbu Mikazuki Munechika Yamatonokami Yasusada Disney The Nightmare Before Christmas",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z33/20260106-1601150695cb33b24fe3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z33/20260106-1601151695cb33b7a78e.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z33/20260106-1601162695cb33c029a5.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/Z33.html"
     },
     {
       "id": "Z-34",
@@ -33463,37 +33578,6 @@
       "url": "https://www.astop.co.jp/zone/en/caselist/Z61.html"
     },
     {
-      "id": "Z-62",
-      "code": "Z62",
-      "number": 62,
-      "letter": "Z",
-      "date": "2026-01-12",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Haikyu!!",
-        "Kuroko's Basketball"
-      ],
-      "title": "Various minifigures",
-      "caption": "Atsushi Murasakibara, Taiga Kagami, Tetsuya Kuroko, Ryota Kise, Shintaro Midorima, Seijuro Akashi, Tooru Oikawa, Shoyo Hinata, Tetsuro Kuroo, Kenma Kozume, Kotaro Bokuto, Chibi Kyun characters",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z62/20260111-14245906963342be27de.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z62/20260111-14250016963342c19765.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/Z62.html"
-    },
-    {
       "id": "Z-63",
       "code": "Z63",
       "number": 63,
@@ -33802,37 +33886,6 @@
         "https://astop-webapp.sakura.ne.jp/image/css/2/Z79/20260106-1530092695cabf16ee90.jpg"
       ],
       "url": "https://www.astop.co.jp/zone/en/caselist/Z79.html"
-    },
-    {
-      "id": "Z-80",
-      "code": "Z80",
-      "number": 80,
-      "letter": "Z",
-      "date": "2026-10-08",
-      "categories": [
-        "FIGURES",
-        "CHARACTER GOODS",
-        "FIGURES",
-        "IDOL GOODS",
-        "MINIATURE CAR",
-        "Others",
-        "SOFT VYNIL FIGURE",
-        "STUFFED TOYS",
-        "Trading Card Game/TCG",
-        "VIDEO GAME CONSOLE/VIDEO GAME SOFTWARE",
-        "フィギュア"
-      ],
-      "tags": [
-        "Hololive"
-      ],
-      "title": "Hololive",
-      "caption": "Minato Aqua, Houshou Marin, Shirakami Fubuki, Hoshimachi Suisei, Nekomata Okayu, Ookami Mio, Shirogane Noel, Mori Calliope",
-      "images": [
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z80/20261007-18165706ac60e09aaeb3.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z80/20261007-18165916ac60e0b465a4.jpg",
-        "https://astop-webapp.sakura.ne.jp/image/css/2/Z80/20261007-18170026ac60e0c4ece4.jpg"
-      ],
-      "url": "https://www.astop.co.jp/zone/en/caselist/Z80.html"
     },
     {
       "id": "Z-83",
@@ -34163,6 +34216,7 @@
     "Ai Yazawa",
     "Aikatsu",
     "Akami Karubi",
+    "Akira Toriyama",
     "An explosion in this wonderful world",
     "Android Kikaider",
     "Angel Beats",
@@ -34185,6 +34239,7 @@
     "BEASTARS",
     "BLEACH",
     "BOOKS",
+    "BORUTO",
     "Bakemonogatari",
     "Baki",
     "Baltan Alien",
@@ -34503,6 +34558,7 @@
     "Mobile Suit Gundam: Requiem of Revenge",
     "Mobile Suit Gundam: Witch of Mercury",
     "Mobility Joint Gundam",
+    "Monchhichi",
     "Monogatari Series",
     "Mononoke",
     "Monster Collection",
@@ -34599,7 +34655,6 @@
     "Ruby",
     "Rurouni Kenshin",
     "Ryotsu Kankichi",
-    "SANDLAND",
     "SKULL PANDA",
     "SONY",
     "SPY×FAMILY",
@@ -34623,7 +34678,6 @@
     "Shark cat",
     "Shiba Inu",
     "Shigure Ui",
-    "Shonen Jump",
     "Shugo Chara",
     "Slam Dunk",
     "Slayers",
@@ -34679,7 +34733,6 @@
     "The Irregular at Magic High School",
     "The Legend of Zelda",
     "The Melancholy of Haruhi Suzumiya",
-    "The Nightmare Before Christmas",
     "The Prince of Tennis",
     "The Promised Neverland",
     "The Quintessential Quintuplets",
@@ -34749,6 +34802,7 @@
     "Xenoblade Chronicles 2",
     "Yamanote Line Operation Manual 2026",
     "Yoroiden Samurai Troopers",
+    "Yoshihiro Togashi",
     "Yosuga no Sora",
     "Yotsuba&!",
     "Your Lie in April",
@@ -34789,9 +34843,13 @@
     "seal",
     "silent hill",
     "the avengers",
-    "鬼滅の刃"
+    "ワンピース",
+    "初音ミク",
+    "葬送のフリーレン",
+    "薬屋のひとりごと",
+    "進撃の巨人"
   ],
-  "scraped_at": "2026-11-15 04:31:40",
-  "total_cases": 1072,
-  "total_images": 3052
+  "scraped_at": "2026-11-16 04:28:44",
+  "total_cases": 1074,
+  "total_images": 3058
 }
